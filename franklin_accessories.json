@@ -1,0 +1,350 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "SPEC_P1_9_0",
+      "Localized": "Bandana"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "SPEC_P1_11_0",
+      "Localized": "Silver Tie"
+    },
+    "1": {
+      "GXT": "SPEC_P1_11_1",
+      "Localized": "Gold Tie"
+    },
+    "2": {
+      "GXT": "SPEC_P1_11_2",
+      "Localized": "Cream Tie"
+    },
+    "3": {
+      "GXT": "SPEC_P1_11_3",
+      "Localized": "Blue Diamond Tie"
+    },
+    "4": {
+      "GXT": "SPEC_P1_11_4",
+      "Localized": "Blue Spotted Tie"
+    },
+    "5": {
+      "GXT": "SPEC_P1_11_5",
+      "Localized": "White Spotted Tie"
+    },
+    "6": {
+      "GXT": "SPEC_P1_11_6",
+      "Localized": "Dark Gray Tie"
+    },
+    "7": {
+      "GXT": "SPEC_P1_11_7",
+      "Localized": "Gray Striped Tie"
+    },
+    "8": {
+      "GXT": "SPEC_P1_11_8",
+      "Localized": "Silver Striped Tie"
+    },
+    "9": {
+      "GXT": "SPEC_P1_11_9",
+      "Localized": "Red Striped Tie"
+    },
+    "10": {
+      "GXT": "SPEC_P1_11_10",
+      "Localized": "Bronze Striped Tie"
+    },
+    "11": {
+      "GXT": "SPEC_P1_11_11",
+      "Localized": "White Diamond Tie"
+    },
+    "12": {
+      "GXT": "SPEC_P1_11_12",
+      "Localized": "Black Diamond Tie"
+    }
+  },
+  "12": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "13": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "14": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "15": {
+    "0": {
+      "GXT": "SPEC_P1_15_0",
+      "Localized": "Purple Tie"
+    },
+    "1": {
+      "GXT": "SPEC_P1_15_1",
+      "Localized": "Cream Tie"
+    },
+    "2": {
+      "GXT": "SPEC_P1_15_2",
+      "Localized": "Beige Tie"
+    },
+    "3": {
+      "GXT": "SPEC_P1_15_3",
+      "Localized": "Ash Tie"
+    },
+    "4": {
+      "GXT": "SPEC_P1_15_4",
+      "Localized": "White Diamond Tie"
+    },
+    "5": {
+      "GXT": "SPEC_P1_15_5",
+      "Localized": "Gray Diamond Tie"
+    },
+    "6": {
+      "GXT": "SPEC_P1_15_6",
+      "Localized": "Beige Striped Tie"
+    },
+    "7": {
+      "GXT": "SPEC_P1_15_7",
+      "Localized": "Red Striped Tie"
+    },
+    "8": {
+      "GXT": "SPEC_P1_15_8",
+      "Localized": "Russet Wool Tie"
+    },
+    "9": {
+      "GXT": "SPEC_P1_15_9",
+      "Localized": "Gray Striped Tie"
+    },
+    "10": {
+      "GXT": "SPEC_P1_15_10",
+      "Localized": "Gray Wool Tie"
+    },
+    "11": {
+      "GXT": "SPEC_P1_15_11",
+      "Localized": "Off-White Tie"
+    },
+    "12": {
+      "GXT": "SPEC_P1_15_12",
+      "Localized": "Blue Diamond Tie"
+    },
+    "13": {
+      "GXT": "SPEC_P1_15_13",
+      "Localized": "Brown Wool Tie"
+    },
+    "14": {
+      "GXT": "SPEC_P1_15_14",
+      "Localized": "Gray Textured Tie"
+    },
+    "15": {
+      "GXT": "SPEC_P1_15_15",
+      "Localized": "Amethyst Tie"
+    }
+  },
+  "16": {
+    "0": {
+      "GXT": "SPEC_P1_15_0",
+      "Localized": "Purple Tie"
+    },
+    "1": {
+      "GXT": "SPEC_P1_15_1",
+      "Localized": "Cream Tie"
+    },
+    "2": {
+      "GXT": "SPEC_P1_15_2",
+      "Localized": "Beige Tie"
+    },
+    "3": {
+      "GXT": "SPEC_P1_15_3",
+      "Localized": "Ash Tie"
+    },
+    "4": {
+      "GXT": "SPEC_P1_15_4",
+      "Localized": "White Diamond Tie"
+    },
+    "5": {
+      "GXT": "SPEC_P1_15_5",
+      "Localized": "Gray Diamond Tie"
+    },
+    "6": {
+      "GXT": "SPEC_P1_15_6",
+      "Localized": "Beige Striped Tie"
+    },
+    "7": {
+      "GXT": "SPEC_P1_15_7",
+      "Localized": "Red Striped Tie"
+    },
+    "8": {
+      "GXT": "SPEC_P1_15_8",
+      "Localized": "Russet Wool Tie"
+    },
+    "9": {
+      "GXT": "SPEC_P1_15_9",
+      "Localized": "Gray Striped Tie"
+    },
+    "10": {
+      "GXT": "SPEC_P1_15_10",
+      "Localized": "Gray Wool Tie"
+    },
+    "11": {
+      "GXT": "SPEC_P1_15_11",
+      "Localized": "Off-White Tie"
+    },
+    "12": {
+      "GXT": "SPEC_P1_15_12",
+      "Localized": "Blue Diamond Tie"
+    },
+    "13": {
+      "GXT": "SPEC_P1_15_13",
+      "Localized": "Brown Wool Tie"
+    },
+    "14": {
+      "GXT": "SPEC_P1_15_14",
+      "Localized": "Gray Textured Tie"
+    },
+    "15": {
+      "GXT": "SPEC_P1_15_15",
+      "Localized": "Amethyst Tie"
+    }
+  },
+  "17": {
+    "0": {
+      "GXT": "SPEC_P1_15_0",
+      "Localized": "Purple Tie"
+    },
+    "1": {
+      "GXT": "SPEC_P1_15_1",
+      "Localized": "Cream Tie"
+    },
+    "2": {
+      "GXT": "SPEC_P1_15_2",
+      "Localized": "Beige Tie"
+    },
+    "3": {
+      "GXT": "SPEC_P1_15_3",
+      "Localized": "Ash Tie"
+    },
+    "4": {
+      "GXT": "SPEC_P1_15_4",
+      "Localized": "White Diamond Tie"
+    },
+    "5": {
+      "GXT": "SPEC_P1_15_5",
+      "Localized": "Gray Diamond Tie"
+    },
+    "6": {
+      "GXT": "SPEC_P1_15_6",
+      "Localized": "Beige Striped Tie"
+    },
+    "7": {
+      "GXT": "SPEC_P1_15_7",
+      "Localized": "Red Striped Tie"
+    },
+    "8": {
+      "GXT": "SPEC_P1_15_8",
+      "Localized": "Russet Wool Tie"
+    },
+    "9": {
+      "GXT": "SPEC_P1_15_9",
+      "Localized": "Gray Striped Tie"
+    },
+    "10": {
+      "GXT": "SPEC_P1_15_10",
+      "Localized": "Gray Wool Tie"
+    },
+    "11": {
+      "GXT": "SPEC_P1_15_11",
+      "Localized": "Off-White Tie"
+    },
+    "12": {
+      "GXT": "SPEC_P1_15_12",
+      "Localized": "Blue Diamond Tie"
+    },
+    "13": {
+      "GXT": "SPEC_P1_15_13",
+      "Localized": "Brown Wool Tie"
+    },
+    "14": {
+      "GXT": "SPEC_P1_15_14",
+      "Localized": "Gray Textured Tie"
+    },
+    "15": {
+      "GXT": "SPEC_P1_15_15",
+      "Localized": "Amethyst Tie"
+    }
+  },
+  "18": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "19": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

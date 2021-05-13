@@ -1,0 +1,334 @@
+{
+  "0": {
+    "0": {
+      "GXT": "PROPS_P1_H0_0",
+      "Localized": "Hockey Mask"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "PROPS_P1_H3_0",
+      "Localized": "Gray Flat Cap"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "4": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "5": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "6": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "7": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "8": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "PROPS_P1_H8_0",
+      "Localized": "Green Monster Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H8_1",
+      "Localized": "Red Monster Mask"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "PROPS_P1_H9_0",
+      "Localized": "Pig Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H9_1",
+      "Localized": "Dark Pig Mask"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "PROPS_P1_H10_0",
+      "Localized": "Silver Skull Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H10_1",
+      "Localized": "Bone Skull Mask"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "PROPS_P1_H11_0",
+      "Localized": "Space Monkey Mask"
+    }
+  },
+  "12": {
+    "0": {
+      "GXT": "PROPS_P1_H12_0",
+      "Localized": "White Hockey Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H12_1",
+      "Localized": "Red Hockey Mask"
+    }
+  },
+  "13": {
+    "0": {
+      "GXT": "PROPS_P1_H13_0",
+      "Localized": "Ape Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H13_1",
+      "Localized": "Dark Ape Mask"
+    }
+  },
+  "14": {
+    "0": {
+      "GXT": "PROPS_P1_H14_0",
+      "Localized": "Carnival Orange Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H14_1",
+      "Localized": "Carnival White Mask"
+    },
+    "2": {
+      "GXT": "PROPS_P1_H14_2",
+      "Localized": "Carnival Blue Mask"
+    }
+  },
+  "15": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "16": {
+    "0": {
+      "GXT": "PROPS_P1_H19_0",
+      "Localized": "Toe Shoes Fitted Cap"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H19_1",
+      "Localized": "Yeti Fitted Cap"
+    },
+    "2": {
+      "GXT": "PROPS_P1_H19_2",
+      "Localized": "OG Fitted Cap"
+    },
+    "3": {
+      "GXT": "PROPS_P1_H19_3",
+      "Localized": "Magnetics Fitted Cap"
+    },
+    "4": {
+      "GXT": "PROPS_P1_H19_4",
+      "Localized": "LS Red Fitted Cap"
+    },
+    "5": {
+      "GXT": "PROPS_P1_H19_5",
+      "Localized": "Los Santos Charcoal Fitted Cap"
+    },
+    "6": {
+      "GXT": "PROPS_P1_H19_6",
+      "Localized": "Stank Fitted Cap"
+    },
+    "7": {
+      "GXT": "PROPS_P1_H19_7",
+      "Localized": "Los Santos Gray Fitted Cap"
+    },
+    "8": {
+      "GXT": "PROPS_P1_H19_8",
+      "Localized": "Perseus Fitted Cap"
+    },
+    "9": {
+      "GXT": "PROPS_P1_H19_9",
+      "Localized": "Feud Slate Fitted Cap"
+    },
+    "10": {
+      "GXT": "PROPS_P1_H19_10",
+      "Localized": "Feud Black Fitted Cap"
+    },
+    "11": {
+      "GXT": "PROPS_P1_H19_11",
+      "Localized": "LS Black Fitted Cap"
+    },
+    "12": {
+      "GXT": "PROPS_P1_H19_12",
+      "Localized": "LS Corkers Fitted Cap"
+    },
+    "13": {
+      "GXT": "PROPS_P1_H19_13",
+      "Localized": "LS White Fitted Cap"
+    },
+    "14": {
+      "GXT": "PROPS_P1_H19_14",
+      "Localized": "Feud Green Fitted Cap"
+    },
+    "15": {
+      "GXT": "PROPS_P1_H19_15",
+      "Localized": "LS Olive Fitted Cap"
+    }
+  },
+  "17": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "4": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "5": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "18": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "19": {
+    "0": {
+      "GXT": "PROPS_P1_H19_0",
+      "Localized": "Toe Shoes Fitted Cap"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H19_1",
+      "Localized": "Yeti Fitted Cap"
+    },
+    "2": {
+      "GXT": "PROPS_P1_H19_2",
+      "Localized": "OG Fitted Cap"
+    },
+    "3": {
+      "GXT": "PROPS_P1_H19_3",
+      "Localized": "Magnetics Fitted Cap"
+    },
+    "4": {
+      "GXT": "PROPS_P1_H19_4",
+      "Localized": "LS Red Fitted Cap"
+    },
+    "5": {
+      "GXT": "PROPS_P1_H19_5",
+      "Localized": "Los Santos Charcoal Fitted Cap"
+    },
+    "6": {
+      "GXT": "PROPS_P1_H19_6",
+      "Localized": "Stank Fitted Cap"
+    },
+    "7": {
+      "GXT": "PROPS_P1_H19_7",
+      "Localized": "Los Santos Gray Fitted Cap"
+    },
+    "8": {
+      "GXT": "PROPS_P1_H19_8",
+      "Localized": "Perseus Fitted Cap"
+    },
+    "9": {
+      "GXT": "PROPS_P1_H19_9",
+      "Localized": "Feud Slate Fitted Cap"
+    },
+    "10": {
+      "GXT": "PROPS_P1_H19_10",
+      "Localized": "Feud Black Fitted Cap"
+    },
+    "11": {
+      "GXT": "PROPS_P1_H19_11",
+      "Localized": "LS Black Fitted Cap"
+    },
+    "12": {
+      "GXT": "PROPS_P1_H19_12",
+      "Localized": "LS Corkers Fitted Cap"
+    },
+    "13": {
+      "GXT": "PROPS_P1_H19_13",
+      "Localized": "LS White Fitted Cap"
+    },
+    "14": {
+      "GXT": "PROPS_P1_H19_14",
+      "Localized": "Feud Green Fitted Cap"
+    },
+    "15": {
+      "GXT": "PROPS_P1_H19_15",
+      "Localized": "LS Olive Fitted Cap"
+    }
+  },
+  "20": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "21": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

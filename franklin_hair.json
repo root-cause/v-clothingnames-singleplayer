@@ -1,0 +1,98 @@
+{
+  "0": {
+    "0": {
+      "GXT": "HAIR_P1_0_0",
+      "Localized": "Fade"
+    },
+    "1": {
+      "GXT": "HAIR_P1_0_1",
+      "Localized": "Triple Rails"
+    },
+    "2": {
+      "GXT": "HAIR_P1_0_2",
+      "Localized": "Side Shaded"
+    },
+    "3": {
+      "GXT": "HAIR_P1_0_3",
+      "Localized": "Wavy Siderows"
+    },
+    "4": {
+      "GXT": "HAIR_P1_0_4",
+      "Localized": "Snakes"
+    },
+    "5": {
+      "GXT": "HAIR_P1_0_5",
+      "Localized": "Tramlines"
+    },
+    "6": {
+      "GXT": "HAIR_P1_0_6",
+      "Localized": "The King Fresh"
+    },
+    "7": {
+      "GXT": "HAIR_P1_0_7",
+      "Localized": "Star Kutz"
+    },
+    "8": {
+      "GXT": "HAIR_P1_0_8",
+      "Localized": "Tigerized"
+    },
+    "9": {
+      "GXT": "HAIR_P1_0_9",
+      "Localized": "Abstraction"
+    },
+    "10": {
+      "GXT": "HAIR_P1_0_10",
+      "Localized": "Shutters"
+    },
+    "11": {
+      "GXT": "HAIR_P1_0_11",
+      "Localized": "Berms"
+    },
+    "12": {
+      "GXT": "HAIR_P1_0_12",
+      "Localized": "Mellowplex"
+    },
+    "13": {
+      "GXT": "HAIR_P1_0_13",
+      "Localized": "The Feud"
+    },
+    "14": {
+      "GXT": "HAIR_P1_0_14",
+      "Localized": "Business on Top"
+    },
+    "15": {
+      "GXT": "HAIR_P1_0_15",
+      "Localized": "Wild Palm"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "HAIR_P1_1_0",
+      "Localized": "Lo Fro"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "HAIR_P1_2_0",
+      "Localized": "Blowout"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "HAIR_P1_3_0",
+      "Localized": "Cornrows"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "HAIR_P1_4_0",
+      "Localized": "Shape-up"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

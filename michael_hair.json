@@ -1,0 +1,38 @@
+{
+  "0": {
+    "0": {
+      "GXT": "HAIR_P0_0_0",
+      "Localized": "Lexington"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "HAIR_P0_1_0",
+      "Localized": "The Wood"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "HAIR_P0_2_0",
+      "Localized": "Clippered Cut"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "HAIR_P0_3_0",
+      "Localized": "Grown Out"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "HAIR_P0_4_0",
+      "Localized": "Slicker"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

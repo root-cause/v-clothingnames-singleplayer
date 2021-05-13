@@ -1,0 +1,1046 @@
+{
+  "0": {
+    "0": {
+      "GXT": "TORSO_P2_0_0",
+      "Localized": "White T-Shirt"
+    },
+    "1": {
+      "GXT": "TORSO_P2_0_1",
+      "Localized": "Yellow T-Shirt"
+    },
+    "2": {
+      "GXT": "TORSO_P2_0_2",
+      "Localized": "Dusche Gold T-Shirt"
+    },
+    "3": {
+      "GXT": "TORSO_P2_0_3",
+      "Localized": "Charcoal T-Shirt"
+    },
+    "4": {
+      "GXT": "TORSO_P2_0_4",
+      "Localized": "Cerveza Barracho T-Shirt"
+    },
+    "5": {
+      "GXT": "TORSO_P2_0_5",
+      "Localized": "Liberty City Wrath T-Shirt"
+    },
+    "6": {
+      "GXT": "TORSO_P2_0_6",
+      "Localized": "Pump & Run T-Shirt"
+    },
+    "7": {
+      "GXT": "TORSO_P2_0_7",
+      "Localized": "Atomic T-Shirt"
+    },
+    "8": {
+      "GXT": "TORSO_P2_0_8",
+      "Localized": "LS Nuclear Power T-Shirt"
+    },
+    "9": {
+      "GXT": "TORSO_P2_0_9",
+      "Localized": "Zancudo T-Shirt"
+    },
+    "10": {
+      "GXT": "TORSO_P2_0_10",
+      "Localized": "West Coast Classics T-Shirt"
+    },
+    "11": {
+      "GXT": "TORSO_P2_0_11",
+      "Localized": "BC Talk Radio T-Shirt"
+    },
+    "12": {
+      "GXT": "TORSO_P2_0_12",
+      "Localized": "Animal Ark T-Shirt"
+    },
+    "13": {
+      "GXT": "TORSO_P2_0_13",
+      "Localized": "Rimmers T-Shirt"
+    },
+    "14": {
+      "GXT": "TORSO_P2_0_14",
+      "Localized": "Paperclips T-Shirt"
+    },
+    "15": {
+      "GXT": "TORSO_P2_0_15",
+      "Localized": "Pop's Pills T-Shirt"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "TORSO_P2_3_0",
+      "Localized": "Los Santos Tank Top"
+    },
+    "1": {
+      "GXT": "TORSO_P2_3_1",
+      "Localized": "Del Perro Pier Tank Top"
+    },
+    "2": {
+      "GXT": "TORSO_P2_3_2",
+      "Localized": "San Andreas Tank Top"
+    },
+    "3": {
+      "GXT": "TORSO_P2_3_3",
+      "Localized": "Love Fist Tank Top"
+    },
+    "4": {
+      "GXT": "TORSO_P2_3_4",
+      "Localized": "Space Monkey Tank Top 1"
+    },
+    "5": {
+      "GXT": "TORSO_P2_3_5",
+      "Localized": "Space Monkey Tank Top 2"
+    },
+    "6": {
+      "GXT": "TORSO_P2_3_6",
+      "Localized": "Space Monkey Tank Top 3"
+    },
+    "7": {
+      "GXT": "TORSO_P2_3_7",
+      "Localized": "Space Monkey Tank Top 4"
+    },
+    "8": {
+      "GXT": "TORSO_P2_3_8",
+      "Localized": "Space Monkey Tank Top 5"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "TORSO_P2_4_0",
+      "Localized": "Rearwall Black Down Jacket"
+    },
+    "1": {
+      "GXT": "TORSO_P2_4_1",
+      "Localized": "Crevis Green Down Jacket"
+    },
+    "2": {
+      "GXT": "TORSO_P2_4_2",
+      "Localized": "Rearwall Fluoro Down Jacket"
+    },
+    "3": {
+      "GXT": "TORSO_P2_4_3",
+      "Localized": "Rearwall Coffee Down Jacket"
+    },
+    "4": {
+      "GXT": "TORSO_P2_4_4tu",
+      "Localized": "Crevis Yellow Down Jacket"
+    },
+    "5": {
+      "GXT": "TORSO_P2_4_5tu",
+      "Localized": "Eris Yellow Down Jacket"
+    },
+    "6": {
+      "GXT": "TORSO_P2_4_6tu",
+      "Localized": "Crevis Red Down Jacket"
+    },
+    "7": {
+      "GXT": "TORSO_P2_4_7",
+      "Localized": "Rearwall Red Down Jacket"
+    },
+    "8": {
+      "GXT": "TORSO_P2_4_8",
+      "Localized": "Crevis Blue Down Jacket"
+    },
+    "9": {
+      "GXT": "TORSO_P2_4_9",
+      "Localized": "Eris Gray Down Jacket"
+    },
+    "10": {
+      "GXT": "TORSO_P2_4_10",
+      "Localized": "Eris Red Down Jacket"
+    },
+    "11": {
+      "GXT": "TORSO_P2_4_11",
+      "Localized": "Eris Olive Down Jacket"
+    },
+    "12": {
+      "GXT": "TORSO_P2_4_12",
+      "Localized": "Eris Aqua Down Jacket"
+    },
+    "13": {
+      "GXT": "TORSO_P2_4_13",
+      "Localized": "Eris Blue Down Jacket"
+    },
+    "14": {
+      "GXT": "TORSO_P2_4_14",
+      "Localized": "Crevis Gray Down Jacket"
+    },
+    "15": {
+      "GXT": "TORSO_P2_4_15",
+      "Localized": "Eris Tan Down Jacket"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "4": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "5": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "TORSO_P2_11_0",
+      "Localized": "Red Floral Polo Shirt"
+    },
+    "1": {
+      "GXT": "TORSO_P2_11_1",
+      "Localized": "Amethyst Polo Shirt"
+    },
+    "2": {
+      "GXT": "TORSO_P2_11_2",
+      "Localized": "Turquoise Striped Polo Shirt"
+    },
+    "3": {
+      "GXT": "TORSO_P2_11_3",
+      "Localized": "Pink Striped Polo Shirt"
+    },
+    "4": {
+      "GXT": "TORSO_P2_11_4",
+      "Localized": "Mustard Polo Shirt"
+    },
+    "5": {
+      "GXT": "TORSO_P2_11_5",
+      "Localized": "Orange Polo Shirt"
+    },
+    "6": {
+      "GXT": "TORSO_P2_11_6",
+      "Localized": "Topaz Striped Polo Shirt"
+    },
+    "7": {
+      "GXT": "TORSO_P2_11_7",
+      "Localized": "Mint Polo Shirt"
+    },
+    "8": {
+      "GXT": "TORSO_P2_11_8",
+      "Localized": "Navy Striped Polo Shirt"
+    },
+    "9": {
+      "GXT": "TORSO_P2_11_9",
+      "Localized": "Green Striped Polo Shirt"
+    },
+    "10": {
+      "GXT": "TORSO_P2_11_10",
+      "Localized": "Turquoise Two-Tone Polo Shirt"
+    },
+    "11": {
+      "GXT": "TORSO_P2_11_11",
+      "Localized": "Brown Polo Shirt"
+    },
+    "12": {
+      "GXT": "TORSO_P2_11_12",
+      "Localized": "Pink Polo Shirt"
+    },
+    "13": {
+      "GXT": "TORSO_P2_11_13",
+      "Localized": "Green Polo Shirt"
+    },
+    "14": {
+      "GXT": "TORSO_P2_11_14",
+      "Localized": "Aqua Polo Shirt"
+    },
+    "15": {
+      "GXT": "TORSO_P2_11_15",
+      "Localized": "Brown Striped Polo Shirt"
+    }
+  },
+  "12": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "13": {
+    "0": {
+      "GXT": "TORSO_P2_13_0",
+      "Localized": "Mint Floral Dress"
+    },
+    "1": {
+      "GXT": "TORSO_P2_13_1",
+      "Localized": "Pink Dress"
+    },
+    "2": {
+      "GXT": "TORSO_P2_13_2",
+      "Localized": "White Floral Dress"
+    },
+    "3": {
+      "GXT": "TORSO_P2_13_3",
+      "Localized": "Purple Zebra Dress"
+    },
+    "4": {
+      "GXT": "TORSO_P2_13_4",
+      "Localized": "Cream Dress"
+    },
+    "5": {
+      "GXT": "TORSO_P2_13_5",
+      "Localized": "Space Monkey Dress 1"
+    },
+    "6": {
+      "GXT": "TORSO_P2_13_6",
+      "Localized": "Space Monkey Dress 2"
+    },
+    "7": {
+      "GXT": "TORSO_P2_13_7",
+      "Localized": "Space Monkey Dress 3"
+    }
+  },
+  "14": {
+    "0": {
+      "GXT": "TORSO_P2_14_0",
+      "Localized": "Black Hoodie"
+    },
+    "1": {
+      "GXT": "TORSO_P2_14_1",
+      "Localized": "Silver Hoodie"
+    },
+    "2": {
+      "GXT": "TORSO_P2_14_2",
+      "Localized": "Ammu-Nation Camo Hoodie"
+    },
+    "3": {
+      "GXT": "TORSO_P2_14_3",
+      "Localized": "LSGC Urban Hoodie"
+    },
+    "4": {
+      "GXT": "TORSO_P2_14_4",
+      "Localized": "LSGC Gray Hoodie"
+    },
+    "5": {
+      "GXT": "TORSO_P2_14_5",
+      "Localized": "Ammu-Nation A Hoodie"
+    },
+    "6": {
+      "GXT": "TORSO_P2_14_6",
+      "Localized": "Blauser Hoodie"
+    },
+    "7": {
+      "GXT": "TORSO_P2_14_7",
+      "Localized": "LSGC Forest Hoodie"
+    },
+    "8": {
+      "GXT": "TORSO_P2_14_8",
+      "Localized": "Penetrators Hoodie"
+    },
+    "9": {
+      "GXT": "TORSO_P2_14_9",
+      "Localized": "Crevis Fluorescent Hoodie"
+    },
+    "10": {
+      "GXT": "TORSO_P2_14_10",
+      "Localized": "Blue Hoodie"
+    },
+    "11": {
+      "GXT": "TORSO_P2_14_11",
+      "Localized": "Green Hoodie"
+    },
+    "12": {
+      "GXT": "TORSO_P2_14_12",
+      "Localized": "LS Jardineros Hoodie"
+    },
+    "13": {
+      "GXT": "TORSO_P2_14_13",
+      "Localized": "Ash 18 Hoodie"
+    },
+    "14": {
+      "GXT": "TORSO_P2_14_14",
+      "Localized": "Red Mist XI Hoodie"
+    },
+    "15": {
+      "GXT": "TORSO_P2_14_15",
+      "Localized": "Eris Charcoal Hoodie"
+    }
+  },
+  "15": {
+    "0": {
+      "GXT": "TORSO_P2_15_0",
+      "Localized": "Tennis Shirt"
+    }
+  },
+  "16": {
+    "0": {
+      "GXT": "TORSO_P2_16_0",
+      "Localized": "Bare Chest"
+    }
+  },
+  "17": {
+    "0": {
+      "GXT": "TORSO_P2_17_0",
+      "Localized": "Pink Jacket"
+    }
+  },
+  "18": {
+    "0": {
+      "GXT": "TORSO_P2_18_0",
+      "Localized": "Blue Denim Jacket"
+    },
+    "1": {
+      "GXT": "TORSO_P2_18_1",
+      "Localized": "Black Denim Jacket"
+    },
+    "2": {
+      "GXT": "TORSO_P2_18_2",
+      "Localized": "Gray Denim Jacket"
+    },
+    "3": {
+      "GXT": "TORSO_P2_18_3",
+      "Localized": "Brown Denim Jacket"
+    },
+    "4": {
+      "GXT": "TORSO_P2_18_4",
+      "Localized": "Faded Denim Jacket"
+    },
+    "5": {
+      "GXT": "TORSO_P2_18_5",
+      "Localized": "Ash Denim Jacket"
+    }
+  },
+  "19": {
+    "0": {
+      "GXT": "TORSO_P2_19_0",
+      "Localized": "Denim Shirt"
+    },
+    "1": {
+      "GXT": "TORSO_P2_19_1",
+      "Localized": "Faded Denim Shirt"
+    },
+    "2": {
+      "GXT": "TORSO_P2_19_2",
+      "Localized": "Black Shirt"
+    },
+    "3": {
+      "GXT": "TORSO_P2_19_3",
+      "Localized": "Gray Check Shirt"
+    },
+    "4": {
+      "GXT": "TORSO_P2_19_4",
+      "Localized": "Brown Check Shirt"
+    },
+    "5": {
+      "GXT": "TORSO_P2_19_5",
+      "Localized": "Red Check Shirt"
+    },
+    "6": {
+      "GXT": "TORSO_P2_19_6",
+      "Localized": "Brown Shirt"
+    },
+    "7": {
+      "GXT": "TORSO_P2_19_7",
+      "Localized": "Khaki Shirt"
+    },
+    "8": {
+      "GXT": "TORSO_P2_19_8",
+      "Localized": "Red Plaid Shirt"
+    },
+    "9": {
+      "GXT": "TORSO_P2_19_9",
+      "Localized": "Brown Plaid Shirt"
+    },
+    "10": {
+      "GXT": "TORSO_P2_19_10",
+      "Localized": "Green Check Shirt"
+    },
+    "11": {
+      "GXT": "TORSO_P2_19_11",
+      "Localized": "Maroon Check Shirt"
+    },
+    "12": {
+      "GXT": "TORSO_P2_19_12",
+      "Localized": "Gray Shirt"
+    },
+    "13": {
+      "GXT": "TORSO_P2_19_13",
+      "Localized": "Blue Check Shirt"
+    },
+    "14": {
+      "GXT": "TORSO_P2_19_14",
+      "Localized": "Blue Two-Tone Shirt"
+    },
+    "15": {
+      "GXT": "TORSO_P2_19_15",
+      "Localized": "Navy Shirt"
+    }
+  },
+  "20": {
+    "0": {
+      "GXT": "TORSO_P2_20_0",
+      "Localized": "Burgundy Bowling Shirt"
+    },
+    "1": {
+      "GXT": "TORSO_P2_20_1",
+      "Localized": "Purple Bowling Shirt"
+    },
+    "2": {
+      "GXT": "TORSO_P2_20_2",
+      "Localized": "Crimson Bowling Shirt"
+    },
+    "3": {
+      "GXT": "TORSO_P2_20_3",
+      "Localized": "Tan Bowling Shirt"
+    },
+    "4": {
+      "GXT": "TORSO_P2_20_4",
+      "Localized": "Flames Bowling Shirt"
+    },
+    "5": {
+      "GXT": "TORSO_P2_20_5",
+      "Localized": "Skull Bowling Shirt"
+    },
+    "6": {
+      "GXT": "TORSO_P2_20_6",
+      "Localized": "Pale Blue Bowling Shirt"
+    },
+    "7": {
+      "GXT": "TORSO_P2_20_7",
+      "Localized": "Scarab Bowling Shirt"
+    },
+    "8": {
+      "GXT": "TORSO_P2_20_8",
+      "Localized": "Cream Bowling Shirt"
+    },
+    "9": {
+      "GXT": "TORSO_P2_20_9",
+      "Localized": "Cube Bowling Shirt"
+    },
+    "10": {
+      "GXT": "TORSO_P2_20_10",
+      "Localized": "Beige Bowling Shirt"
+    },
+    "11": {
+      "GXT": "TORSO_P2_20_11",
+      "Localized": "Blue Bowling Shirt"
+    },
+    "12": {
+      "GXT": "TORSO_P2_20_12",
+      "Localized": "Yellow Bowling Shirt"
+    },
+    "13": {
+      "GXT": "TORSO_P2_20_13",
+      "Localized": "Pink Bowling Shirt"
+    },
+    "14": {
+      "GXT": "TORSO_P2_20_14",
+      "Localized": "White Bowling Shirt"
+    },
+    "15": {
+      "GXT": "TORSO_P2_20_15",
+      "Localized": "Black Bowling Shirt"
+    }
+  },
+  "21": {
+    "0": {
+      "GXT": "TORSO_P2_21_0",
+      "Localized": "Peyton Blue Blouson"
+    },
+    "1": {
+      "GXT": "TORSO_P2_21_1",
+      "Localized": "Overlooked Red Blouson"
+    },
+    "2": {
+      "GXT": "TORSO_P2_21_2",
+      "Localized": "Natural Blouson"
+    },
+    "3": {
+      "GXT": "TORSO_P2_21_3",
+      "Localized": "Sky Blue Blouson"
+    },
+    "4": {
+      "GXT": "TORSO_P2_21_4",
+      "Localized": "Deep Green Blouson"
+    },
+    "5": {
+      "GXT": "TORSO_P2_21_5",
+      "Localized": "Champagne Driver Blouson"
+    },
+    "6": {
+      "GXT": "TORSO_P2_21_6",
+      "Localized": "Snakeskin Blouson"
+    },
+    "7": {
+      "GXT": "TORSO_P2_21_7",
+      "Localized": "Desert Brown Blouson"
+    }
+  },
+  "22": {
+    "0": {
+      "GXT": "TORSO_P2_22_0",
+      "Localized": "Black Striped Leather Jacket"
+    },
+    "1": {
+      "GXT": "TORSO_P2_22_1",
+      "Localized": "Black Leather Jacket"
+    },
+    "2": {
+      "GXT": "TORSO_P2_22_2",
+      "Localized": "Chestnut Leather Jacket"
+    },
+    "3": {
+      "GXT": "TORSO_P2_22_3",
+      "Localized": "Red Leather Jacket"
+    },
+    "4": {
+      "GXT": "TORSO_P2_22_4",
+      "Localized": "White Leather Jacket"
+    },
+    "5": {
+      "GXT": "TORSO_P2_22_5",
+      "Localized": "Blue Leather Jacket"
+    },
+    "6": {
+      "GXT": "TORSO_P2_22_6",
+      "Localized": "Lonewolf Leather Jacket"
+    },
+    "7": {
+      "GXT": "TORSO_P2_22_7",
+      "Localized": "Brown Leather Jacket"
+    },
+    "8": {
+      "GXT": "TORSO_P2_22_8",
+      "Localized": "Gray Striped Leather Jacket"
+    },
+    "9": {
+      "GXT": "TORSO_P2_22_9",
+      "Localized": "Gray Banded Leather Jacket"
+    },
+    "10": {
+      "GXT": "TORSO_P2_22_10",
+      "Localized": "Russet Leather Jacket"
+    },
+    "11": {
+      "GXT": "TORSO_P2_22_11",
+      "Localized": "Brown Suede Jacket"
+    }
+  },
+  "23": {
+    "0": {
+      "GXT": "TORSO_P2_23_0",
+      "Localized": "Brown Shooting Vest"
+    },
+    "1": {
+      "GXT": "TORSO_P2_23_1",
+      "Localized": "Woodland Shooting Vest"
+    },
+    "2": {
+      "GXT": "TORSO_P2_23_2",
+      "Localized": "Taupe Shooting Vest"
+    },
+    "3": {
+      "GXT": "TORSO_P2_23_3",
+      "Localized": "Brown Woven Shooting Vest"
+    },
+    "4": {
+      "GXT": "TORSO_P2_23_4",
+      "Localized": "Field Shooting Vest"
+    },
+    "5": {
+      "GXT": "TORSO_P2_23_5",
+      "Localized": "Forest Shooting Vest"
+    }
+  },
+  "24": {
+    "0": {
+      "GXT": "TORSO_P2_24_0",
+      "Localized": "Yellow Tank Top"
+    },
+    "1": {
+      "GXT": "TORSO_P2_24_1",
+      "Localized": "Blue Birds Tank Top"
+    },
+    "2": {
+      "GXT": "TORSO_P2_24_2",
+      "Localized": "Orange Pattern Tank Top"
+    },
+    "3": {
+      "GXT": "TORSO_P2_24_3",
+      "Localized": "Blue Stars Tank Top"
+    },
+    "4": {
+      "GXT": "TORSO_P2_24_4",
+      "Localized": "Aqua Pattern Tank Top"
+    },
+    "5": {
+      "GXT": "TORSO_P2_24_5",
+      "Localized": "Degenatron Tank Top"
+    },
+    "6": {
+      "GXT": "TORSO_P2_24_6",
+      "Localized": "Taco Libre Tank Top"
+    },
+    "7": {
+      "GXT": "TORSO_P2_24_7",
+      "Localized": "Pussycat Tank Top"
+    },
+    "8": {
+      "GXT": "TORSO_P2_24_8",
+      "Localized": "Lemon Pattern Tank Top"
+    },
+    "9": {
+      "GXT": "TORSO_P2_24_9",
+      "Localized": "Charcoal Tank Top"
+    },
+    "10": {
+      "GXT": "TORSO_P2_24_10",
+      "Localized": "Off-White Tank Top"
+    },
+    "11": {
+      "GXT": "TORSO_P2_24_11",
+      "Localized": "Banded Tank Top"
+    },
+    "12": {
+      "GXT": "TORSO_P2_24_12",
+      "Localized": "Orange Tank Top"
+    },
+    "13": {
+      "GXT": "TORSO_P2_24_13",
+      "Localized": "Camo Tank Top"
+    },
+    "14": {
+      "GXT": "TORSO_P2_24_14",
+      "Localized": "Indigo Tank Top"
+    },
+    "15": {
+      "GXT": "TORSO_P2_24_15",
+      "Localized": "Liberty Cocks Tank Top"
+    }
+  },
+  "25": {
+    "0": {
+      "GXT": "TORSO_P2_25_0",
+      "Localized": "Blue Two-Tone Shirt"
+    },
+    "1": {
+      "GXT": "TORSO_P2_25_1",
+      "Localized": "Circles Shirt"
+    },
+    "2": {
+      "GXT": "TORSO_P2_25_2",
+      "Localized": "Gray Two-Tone Shirt"
+    },
+    "3": {
+      "GXT": "TORSO_P2_25_3",
+      "Localized": "Mustard Shirt"
+    },
+    "4": {
+      "GXT": "TORSO_P2_25_4",
+      "Localized": "Blue Checkered Shirt"
+    },
+    "5": {
+      "GXT": "TORSO_P2_25_5",
+      "Localized": "Floral Shirt"
+    },
+    "6": {
+      "GXT": "TORSO_P2_25_6",
+      "Localized": "Beige Shirt"
+    },
+    "7": {
+      "GXT": "TORSO_P2_25_7",
+      "Localized": "Lavender Shirt"
+    },
+    "8": {
+      "GXT": "TORSO_P2_25_8",
+      "Localized": "Black Shirt"
+    },
+    "9": {
+      "GXT": "TORSO_P2_25_9",
+      "Localized": "Monogrammed Shirt"
+    },
+    "10": {
+      "GXT": "TORSO_P2_25_10",
+      "Localized": "Paisley Shirt"
+    },
+    "11": {
+      "GXT": "TORSO_P2_25_11",
+      "Localized": "Camel Shirt"
+    }
+  },
+  "26": {
+    "0": {
+      "GXT": "TORSO_P2_26_0",
+      "Localized": "Beige Tight Jacket"
+    },
+    "1": {
+      "GXT": "TORSO_P2_26_1",
+      "Localized": "Blue Tight Jacket"
+    },
+    "2": {
+      "GXT": "TORSO_P2_26_2",
+      "Localized": "Brown Plaid Tight Jacket"
+    },
+    "3": {
+      "GXT": "TORSO_P2_26_3",
+      "Localized": "Burgundy Tight Jacket"
+    },
+    "4": {
+      "GXT": "TORSO_P2_26_4",
+      "Localized": "Murky Plaid Tight Jacket"
+    },
+    "5": {
+      "GXT": "TORSO_P2_26_5",
+      "Localized": "Mint Plaid Tight Jacket"
+    },
+    "6": {
+      "GXT": "TORSO_P2_26_6",
+      "Localized": "Green Plaid Tight Jacket"
+    },
+    "7": {
+      "GXT": "TORSO_P2_26_7",
+      "Localized": "Blue-Gray Tight Jacket"
+    },
+    "8": {
+      "GXT": "TORSO_P2_26_8",
+      "Localized": "Caramel Tight Jacket"
+    },
+    "9": {
+      "GXT": "TORSO_P2_26_9",
+      "Localized": "Mocha Tight Jacket"
+    }
+  },
+  "27": {
+    "0": {
+      "GXT": "TORSO_P2_27_0",
+      "Localized": "Gray Jacket"
+    },
+    "1": {
+      "GXT": "TORSO_P2_27_1",
+      "Localized": "Oatmeal Jacket"
+    },
+    "2": {
+      "GXT": "TORSO_P2_27_2",
+      "Localized": "Charcoal Jacket"
+    },
+    "3": {
+      "GXT": "TORSO_P2_27_3",
+      "Localized": "Off-White Jacket"
+    },
+    "4": {
+      "GXT": "TORSO_P2_27_4",
+      "Localized": "Cream Jacket"
+    },
+    "5": {
+      "GXT": "TORSO_P2_27_5",
+      "Localized": "Black Jacket"
+    },
+    "6": {
+      "GXT": "TORSO_P2_27_6",
+      "Localized": "Ash Jacket"
+    }
+  },
+  "28": {
+    "0": {
+      "GXT": "TORSO_P2_28_0",
+      "Localized": "Dark Gray Sweater"
+    },
+    "1": {
+      "GXT": "TORSO_P2_28_1",
+      "Localized": "Pale Gray Sweater"
+    },
+    "2": {
+      "GXT": "TORSO_P2_28_2",
+      "Localized": "Taupe Sweater"
+    },
+    "3": {
+      "GXT": "TORSO_P2_28_3",
+      "Localized": "Pale Blue Sweater"
+    },
+    "4": {
+      "GXT": "TORSO_P2_28_4",
+      "Localized": "Tangerine Sweater"
+    },
+    "5": {
+      "GXT": "TORSO_P2_28_5",
+      "Localized": "Quarry Brown Sweater"
+    },
+    "6": {
+      "GXT": "TORSO_P2_28_6",
+      "Localized": "Dark Chevrons Sweater"
+    },
+    "7": {
+      "GXT": "TORSO_P2_28_7",
+      "Localized": "Zingy Chevrons Sweater"
+    },
+    "8": {
+      "GXT": "TORSO_P2_28_8",
+      "Localized": "Rainbow Field Sweater"
+    },
+    "9": {
+      "GXT": "TORSO_P2_28_9",
+      "Localized": "Dark Field Sweater"
+    },
+    "10": {
+      "GXT": "TORSO_P2_28_10",
+      "Localized": "Animal Strip Sweater"
+    },
+    "11": {
+      "GXT": "TORSO_P2_28_11",
+      "Localized": "Bill Brown Sweater"
+    },
+    "12": {
+      "GXT": "TORSO_P2_28_12",
+      "Localized": "Mint Argyle Sweater"
+    },
+    "13": {
+      "GXT": "TORSO_P2_28_13",
+      "Localized": "Gray Argyle Sweater"
+    },
+    "14": {
+      "GXT": "TORSO_P2_28_14",
+      "Localized": "Grape Eighties Sweater"
+    },
+    "15": {
+      "GXT": "TORSO_P2_28_15",
+      "Localized": "Geometric Eighties Sweater"
+    }
+  },
+  "29": {
+    "0": {
+      "GXT": "TORSO_P2_29_0",
+      "Localized": "Black Jacket"
+    },
+    "1": {
+      "GXT": "TORSO_P2_29_1",
+      "Localized": "All Black Jacket"
+    },
+    "2": {
+      "GXT": "TORSO_P2_29_2",
+      "Localized": "White Jacket"
+    },
+    "3": {
+      "GXT": "TORSO_P2_29_3",
+      "Localized": "Cream Jacket"
+    },
+    "4": {
+      "GXT": "TORSO_P2_29_4",
+      "Localized": "Oatmeal Jacket"
+    },
+    "5": {
+      "GXT": "TORSO_P2_29_5",
+      "Localized": "Blue-Gray Jacket"
+    },
+    "6": {
+      "GXT": "TORSO_P2_29_6",
+      "Localized": "Beige Jacket"
+    },
+    "7": {
+      "GXT": "TORSO_P2_29_7",
+      "Localized": "Off-White Jacket"
+    },
+    "8": {
+      "GXT": "TORSO_P2_29_8",
+      "Localized": "Gray Suit Jacket"
+    },
+    "9": {
+      "GXT": "TORSO_P2_29_9",
+      "Localized": "Ash Suit Jacket"
+    }
+  },
+  "30": {
+    "0": {
+      "GXT": "TORSO_P2_30_0",
+      "Localized": "Gray Blazer"
+    },
+    "1": {
+      "GXT": "TORSO_P2_30_1",
+      "Localized": "Beige Blazer"
+    },
+    "2": {
+      "GXT": "TORSO_P2_30_2",
+      "Localized": "Black Blazer"
+    },
+    "3": {
+      "GXT": "TORSO_P2_30_3",
+      "Localized": "Brown Blazer"
+    },
+    "4": {
+      "GXT": "TORSO_P2_30_4",
+      "Localized": "Navy Blazer"
+    },
+    "5": {
+      "GXT": "TORSO_P2_30_5",
+      "Localized": "Navy Pinstripe Blazer"
+    },
+    "6": {
+      "GXT": "TORSO_P2_30_6",
+      "Localized": "Blue-Gray Pinstripe Blazer"
+    },
+    "7": {
+      "GXT": "TORSO_P2_30_7",
+      "Localized": "Brown Pinstripe Blazer"
+    }
+  },
+  "31": {
+    "0": {
+      "GXT": "TORSO_P2_31_0",
+      "Localized": "Tuxedo Jacket"
+    }
+  },
+  "32": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "33": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

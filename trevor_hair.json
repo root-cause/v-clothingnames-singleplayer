@@ -1,0 +1,54 @@
+{
+  "0": {
+    "0": {
+      "GXT": "HAIR_P2_0_0",
+      "Localized": "Trailer Cut"
+    },
+    "1": {
+      "GXT": "HAIR_P2_0_1",
+      "Localized": "Frozen"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "HAIR_P2_1_0",
+      "Localized": "Clean Razor"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "HAIR_P2_2_0",
+      "Localized": "Randal"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "HAIR_P2_3_0",
+      "Localized": "Side Shed"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "HAIR_P2_4_0",
+      "Localized": "Grown Out"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "HAIR_P2_5_0",
+      "Localized": "Mullet"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "HAIR_P2_6_0",
+      "Localized": "Shaved 2"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "HAIR_P2_7_0",
+      "Localized": "Swept Back"
+    }
+  }
+}

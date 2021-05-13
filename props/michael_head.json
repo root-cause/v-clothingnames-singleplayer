@@ -1,0 +1,252 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "PROPS_P0_H1",
+      "Localized": "Blue Baseball Cap"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "PROPS_P0_H2",
+      "Localized": "White Hockey Mask"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "4": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "5": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "6": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "7": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "12": {
+    "0": {
+      "GXT": "PROPS_P0_H12",
+      "Localized": "Black Knitted Hat"
+    }
+  },
+  "13": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "14": {
+    "0": {
+      "GXT": "PROPS_P1_H8_0",
+      "Localized": "Green Monster Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H8_1",
+      "Localized": "Red Monster Mask"
+    }
+  },
+  "15": {
+    "0": {
+      "GXT": "PROPS_P1_H9_0",
+      "Localized": "Pig Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H9_1",
+      "Localized": "Dark Pig Mask"
+    }
+  },
+  "16": {
+    "0": {
+      "GXT": "PROPS_P1_H10_0",
+      "Localized": "Silver Skull Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H10_1",
+      "Localized": "Bone Skull Mask"
+    }
+  },
+  "17": {
+    "0": {
+      "GXT": "PROPS_P1_H11_0",
+      "Localized": "Space Monkey Mask"
+    }
+  },
+  "18": {
+    "0": {
+      "GXT": "PROPS_P1_H12_0",
+      "Localized": "White Hockey Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H12_1",
+      "Localized": "Red Hockey Mask"
+    }
+  },
+  "19": {
+    "0": {
+      "GXT": "PROPS_P1_H13_0",
+      "Localized": "Ape Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H13_1",
+      "Localized": "Dark Ape Mask"
+    }
+  },
+  "20": {
+    "0": {
+      "GXT": "PROPS_P1_H14_0",
+      "Localized": "Carnival Orange Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H14_1",
+      "Localized": "Carnival White Mask"
+    },
+    "2": {
+      "GXT": "PROPS_P1_H14_2",
+      "Localized": "Carnival Blue Mask"
+    }
+  },
+  "21": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "22": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "23": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "4": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "5": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "24": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "25": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "26": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "27": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "28": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

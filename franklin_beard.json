@@ -1,0 +1,32 @@
+{
+  "0": {
+    "0": {
+      "GXT": "BERD_P1_0_0",
+      "Localized": "Clean Shave"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "BERD_P1_1_0",
+      "Localized": "Full Van Dyke"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "BERD_P1_2_0",
+      "Localized": "Methodical"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "BERD_P1_3_0",
+      "Localized": "Full Spartan"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "BERD_P1_4_0",
+      "Localized": "Stubble"
+    }
+  }
+}

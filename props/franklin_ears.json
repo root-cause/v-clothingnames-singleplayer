@@ -1,0 +1,76 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "PROPS_P1_EA1_0",
+      "Localized": "De Koch Diamond Studs"
+    },
+    "1": {
+      "GXT": "PROPS_P1_EA1_1",
+      "Localized": "De Koch Obsidian Studs"
+    },
+    "2": {
+      "GXT": "PROPS_P1_EA1_2",
+      "Localized": "De Koch Sapphire Studs"
+    },
+    "3": {
+      "GXT": "PROPS_P1_EA1_3",
+      "Localized": "De Koch Opal Studs"
+    },
+    "4": {
+      "GXT": "PROPS_P1_EA1_4",
+      "Localized": "De Koch Platinum Studs"
+    },
+    "5": {
+      "GXT": "PROPS_P1_EA1_5",
+      "Localized": "De Koch Garnet Studs"
+    },
+    "6": {
+      "GXT": "PROPS_P1_EA1_6",
+      "Localized": "De Koch Jasper Studs"
+    },
+    "7": {
+      "GXT": "PROPS_P1_EA1_7",
+      "Localized": "De Koch Aquamarine Studs"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "PROPS_P1_EA2_0",
+      "Localized": "Vankhov Diamond Studs"
+    },
+    "1": {
+      "GXT": "PROPS_P1_EA2_1",
+      "Localized": "Vankhov Emerald Studs"
+    },
+    "2": {
+      "GXT": "PROPS_P1_EA2_2",
+      "Localized": "Vankhov Quartz Studs"
+    },
+    "3": {
+      "GXT": "PROPS_P1_EA2_3",
+      "Localized": "Vankhov Obsidian Studs"
+    },
+    "4": {
+      "GXT": "PROPS_P1_EA2_4",
+      "Localized": "Vankhov Platinum Studs"
+    },
+    "5": {
+      "GXT": "PROPS_P1_EA2_5",
+      "Localized": "Vankhov Agate Studs"
+    },
+    "6": {
+      "GXT": "PROPS_P1_EA2_6",
+      "Localized": "Vankhov Jade Studs"
+    },
+    "7": {
+      "GXT": "PROPS_P1_EA2_7",
+      "Localized": "Vankhov Onyx Studs"
+    }
+  }
+}

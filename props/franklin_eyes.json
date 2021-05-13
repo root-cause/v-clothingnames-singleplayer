@@ -1,0 +1,330 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "PROPS_P1_E1_0",
+      "Localized": "Orange Tint Contour Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E1_1",
+      "Localized": "Slate Contour Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E1_2",
+      "Localized": "Gray Contour Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E1_3",
+      "Localized": "Brown Contour Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E1_4",
+      "Localized": "Burgundy Contour Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E1_5",
+      "Localized": "Chocolate Contour Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E1_6",
+      "Localized": "Black Contour Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P1_E1_7",
+      "Localized": "Purple Tint Contour Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P1_E1_8",
+      "Localized": "Blue-Gray Contour Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P1_E1_9",
+      "Localized": "White Contour Shades"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "PROPS_P1_E2",
+      "Localized": "Swimming Goggles"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "PROPS_P1_E3",
+      "Localized": "Racer Shades"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "PROPS_P1_E4_0",
+      "Localized": "Stank Slate Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E4_1",
+      "Localized": "Broker Ash Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E4_2",
+      "Localized": "Broker Chocolate Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E4_3",
+      "Localized": "Stank Black Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E4_4",
+      "Localized": "Broker Black Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E4_5",
+      "Localized": "Stank Green Tint Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E4_6",
+      "Localized": "Stank Blue Tint Shades"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "PROPS_P1_E5_0",
+      "Localized": "Black Aviator Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E5_1",
+      "Localized": "White Aviator Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E5_2",
+      "Localized": "Brown Aviator Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E5_3",
+      "Localized": "Gray Aviator Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E5_4",
+      "Localized": "Two-Tone Aviator Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E5_5",
+      "Localized": "Bone Aviator Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E5_6",
+      "Localized": "Red Aviator Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P1_E5_7",
+      "Localized": "Silver Aviator Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P1_E5_8",
+      "Localized": "Charcoal Aviator Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P1_E5_9",
+      "Localized": "Gold Aviator Shades"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "PROPS_P1_E6_0",
+      "Localized": "Tinted Aviator Glasses"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E6_1",
+      "Localized": "Silver Aviator Glasses"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E6_2",
+      "Localized": "Sepia Aviator Glasses"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E6_3",
+      "Localized": "Blue Aviator Glasses"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E6_4",
+      "Localized": "Yellow Aviator Glasses"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E6_5",
+      "Localized": "Gray Aviator Glasses"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E6_6",
+      "Localized": "Black Aviator Glasses"
+    },
+    "7": {
+      "GXT": "PROPS_P1_E6_7",
+      "Localized": "Slate Aviator Glasses"
+    },
+    "8": {
+      "GXT": "PROPS_P1_E6_8",
+      "Localized": "Smoke Aviator Glasses"
+    },
+    "9": {
+      "GXT": "PROPS_P1_E6_9",
+      "Localized": "Gold Aviator Glasses"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "PROPS_P1_E7_0",
+      "Localized": "Suburban Black Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E7_1",
+      "Localized": "Suburban Teal Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E7_2",
+      "Localized": "Suburban Tortoiseshell Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E7_3",
+      "Localized": "Suburban Orange Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E7_4",
+      "Localized": "Fuque White Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E7_5",
+      "Localized": "Fuque Camo Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E7_6",
+      "Localized": "Fuque Yellow Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P1_E7_7",
+      "Localized": "Fuque Burgundy Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P1_E7_8",
+      "Localized": "Fuque Funky Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P1_E7_9",
+      "Localized": "Fuque Squared Shades"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "PROPS_P1_E8_0",
+      "Localized": "Gold T-Bone Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E8_1",
+      "Localized": "Silver T-Bone Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E8_2",
+      "Localized": "Two-Tone T-Bone Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E8_3",
+      "Localized": "Green T-Bone Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E8_4",
+      "Localized": "Brown T-Bone Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E8_5",
+      "Localized": "Peach T-Bone Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E8_6",
+      "Localized": "Gray T-Bone Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P1_E8_7",
+      "Localized": "Orange T-Bone Shades"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "PROPS_P1_E9_0",
+      "Localized": "Yellow Mono Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E9_1",
+      "Localized": "Gray Mono Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E9_2",
+      "Localized": "Hornet Mono Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E9_3",
+      "Localized": "Copper Mono Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E9_4",
+      "Localized": "Blue Mono Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E9_5",
+      "Localized": "Sepia Mono Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E9_6",
+      "Localized": "White Mono Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P1_E9_7",
+      "Localized": "Orange Tint Mono Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P1_E9_8",
+      "Localized": "Blue Tint Mono Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P1_E9_9",
+      "Localized": "Smoke Mono Shades"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "PROPS_P1_E10_0",
+      "Localized": "Gold Triptych Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P1_E10_1",
+      "Localized": "Gray Triptych Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P1_E10_2",
+      "Localized": "Silver Triptych Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P1_E10_3",
+      "Localized": "Two-Tone Triptych Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P1_E10_4",
+      "Localized": "Copper Triptych Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P1_E10_5",
+      "Localized": "Black Triptych Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P1_E10_6",
+      "Localized": "White Triptych Shades"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

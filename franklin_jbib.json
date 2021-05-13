@@ -1,0 +1,276 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "JBIB_P1_3_0",
+      "Localized": "Silver Plaid Vest"
+    },
+    "1": {
+      "GXT": "JBIB_P1_3_1",
+      "Localized": "Ash Vest"
+    },
+    "2": {
+      "GXT": "JBIB_P1_3_2",
+      "Localized": "Navy Vest"
+    },
+    "3": {
+      "GXT": "JBIB_P1_3_3",
+      "Localized": "Colorful Plaid Vest"
+    },
+    "4": {
+      "GXT": "JBIB_P1_3_4",
+      "Localized": "Beige Vest"
+    },
+    "5": {
+      "GXT": "JBIB_P1_3_5",
+      "Localized": "Black Vest"
+    },
+    "6": {
+      "GXT": "JBIB_P1_3_6",
+      "Localized": "Gray Plaid Vest"
+    },
+    "7": {
+      "GXT": "JBIB_P1_3_7",
+      "Localized": "Jade Plaid Vest"
+    },
+    "8": {
+      "GXT": "JBIB_P1_3_8",
+      "Localized": "Beige Plaid Vest"
+    },
+    "9": {
+      "GXT": "JBIB_P1_3_9",
+      "Localized": "Brown Plaid Vest"
+    },
+    "10": {
+      "GXT": "JBIB_P1_3_10",
+      "Localized": "Brown Vest"
+    },
+    "11": {
+      "GXT": "JBIB_P1_3_11",
+      "Localized": "White Plaid Vest"
+    },
+    "12": {
+      "GXT": "JBIB_P1_3_12",
+      "Localized": "Pearl Plaid Vest"
+    },
+    "13": {
+      "GXT": "JBIB_P1_3_13",
+      "Localized": "Warm Gray Vest"
+    },
+    "14": {
+      "GXT": "JBIB_P1_3_14",
+      "Localized": "Topaz Vest"
+    },
+    "15": {
+      "GXT": "JBIB_P1_3_15",
+      "Localized": "Plum Vest"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "JBIB_P1_3_0",
+      "Localized": "Silver Plaid Vest"
+    },
+    "1": {
+      "GXT": "JBIB_P1_3_1",
+      "Localized": "Ash Vest"
+    },
+    "2": {
+      "GXT": "JBIB_P1_3_2",
+      "Localized": "Navy Vest"
+    },
+    "3": {
+      "GXT": "JBIB_P1_3_3",
+      "Localized": "Colorful Plaid Vest"
+    },
+    "4": {
+      "GXT": "JBIB_P1_3_4",
+      "Localized": "Beige Vest"
+    },
+    "5": {
+      "GXT": "JBIB_P1_3_5",
+      "Localized": "Black Vest"
+    },
+    "6": {
+      "GXT": "JBIB_P1_3_6",
+      "Localized": "Gray Plaid Vest"
+    },
+    "7": {
+      "GXT": "JBIB_P1_3_7",
+      "Localized": "Jade Plaid Vest"
+    },
+    "8": {
+      "GXT": "JBIB_P1_3_8",
+      "Localized": "Beige Plaid Vest"
+    },
+    "9": {
+      "GXT": "JBIB_P1_3_9",
+      "Localized": "Brown Plaid Vest"
+    },
+    "10": {
+      "GXT": "JBIB_P1_3_10",
+      "Localized": "Brown Vest"
+    },
+    "11": {
+      "GXT": "JBIB_P1_3_11",
+      "Localized": "White Plaid Vest"
+    },
+    "12": {
+      "GXT": "JBIB_P1_3_12",
+      "Localized": "Pearl Plaid Vest"
+    },
+    "13": {
+      "GXT": "JBIB_P1_3_13",
+      "Localized": "Warm Gray Vest"
+    },
+    "14": {
+      "GXT": "JBIB_P1_3_14",
+      "Localized": "Topaz Vest"
+    },
+    "15": {
+      "GXT": "JBIB_P1_3_15",
+      "Localized": "Plum Vest"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "JBIB_P1_5_0",
+      "Localized": "White Shirt"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "JBIB_P1_6_0",
+      "Localized": "White Shirt"
+    },
+    "1": {
+      "GXT": "JBIB_P1_6_1",
+      "Localized": "Two-Tone Shirt"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "JBIB_P1_7_0",
+      "Localized": "Charcoal Hoodie"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "JBIB_P1_8_0",
+      "Localized": "White T-Shirt"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "JBIB_P1_9_0",
+      "Localized": "Blue Shirt"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "JBIB_P1_10_0",
+      "Localized": "White T-Shirt"
+    },
+    "1": {
+      "GXT": "JBIB_P1_10_1",
+      "Localized": "Crevis T-Shirt"
+    },
+    "2": {
+      "GXT": "JBIB_P1_10_2",
+      "Localized": "Yeti T-Shirt"
+    },
+    "3": {
+      "GXT": "JBIB_P1_10_3",
+      "Localized": "Sweatbox T-Shirt"
+    },
+    "4": {
+      "GXT": "JBIB_P1_10_4",
+      "Localized": "Trey Baker T-Shirt"
+    },
+    "5": {
+      "GXT": "JBIB_P1_10_5",
+      "Localized": "Black T-Shirt"
+    },
+    "6": {
+      "GXT": "JBIB_P1_10_6",
+      "Localized": "Fruntalot T-Shirt"
+    },
+    "7": {
+      "GXT": "JBIB_P1_10_7",
+      "Localized": "Kingz of Los Santos T-Shirt"
+    },
+    "8": {
+      "GXT": "JBIB_P1_10_8",
+      "Localized": "Ten Off The Chain T-Shirt"
+    },
+    "9": {
+      "GXT": "JBIB_P1_10_9",
+      "Localized": "Gray T-Shirt"
+    },
+    "10": {
+      "GXT": "JBIB_P1_10_10",
+      "Localized": "Green T-Shirt"
+    },
+    "11": {
+      "GXT": "JBIB_P1_10_11",
+      "Localized": "Camo T-Shirt"
+    },
+    "12": {
+      "GXT": "JBIB_P1_10_12",
+      "Localized": "Yeti Rainbow T-Shirt"
+    },
+    "13": {
+      "GXT": "JBIB_P1_10_13",
+      "Localized": "Feud Banded T-Shirt"
+    },
+    "14": {
+      "GXT": "JBIB_P1_10_14",
+      "Localized": "Yogarishima T-Shirt"
+    },
+    "15": {
+      "GXT": "JBIB_P1_10_15",
+      "Localized": "Feud Gray T-Shirt"
+    }
+  }
+}

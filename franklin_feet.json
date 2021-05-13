@@ -1,0 +1,578 @@
+{
+  "0": {
+    "0": {
+      "GXT": "FEET_P1_00_0",
+      "Localized": "White Athletic Shoes"
+    },
+    "1": {
+      "GXT": "FEET_P1_00_1",
+      "Localized": "All White Athletic Shoes"
+    },
+    "2": {
+      "GXT": "FEET_P1_00_2",
+      "Localized": "Charcoal Two-Tone Athletic Shoes"
+    },
+    "3": {
+      "GXT": "FEET_P1_00_3",
+      "Localized": "Yellow Athletic Shoes"
+    },
+    "4": {
+      "GXT": "FEET_P1_00_4",
+      "Localized": "Gray Athletic Shoes"
+    },
+    "5": {
+      "GXT": "FEET_P1_00_5",
+      "Localized": "Black Two-Tone Athletic Shoes"
+    },
+    "6": {
+      "GXT": "FEET_P1_00_6",
+      "Localized": "Gray Two-Tone Athletic Shoes"
+    },
+    "7": {
+      "GXT": "FEET_P1_00_7",
+      "Localized": "Lemon Accent Athletic Shoes"
+    },
+    "8": {
+      "GXT": "FEET_P1_00_8",
+      "Localized": "Two-Tone Athletic Shoes"
+    },
+    "9": {
+      "GXT": "FEET_P1_00_9",
+      "Localized": "Cyan Athletic Shoes"
+    },
+    "10": {
+      "GXT": "FEET_P1_00_10",
+      "Localized": "Cyan Accent Athletic Shoes"
+    },
+    "11": {
+      "GXT": "FEET_P1_00_11",
+      "Localized": "Fluorescent Athletic Shoes"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "FEET_P1_01_0",
+      "Localized": "Work Boots"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "FEET_P1_06_0",
+      "Localized": "Desert Round-Toe Boots"
+    },
+    "1": {
+      "GXT": "FEET_P1_06_1",
+      "Localized": "Coffee Round-Toe Boots"
+    },
+    "2": {
+      "GXT": "FEET_P1_06_2",
+      "Localized": "Chocolate Round-Toe Boots"
+    },
+    "3": {
+      "GXT": "FEET_P1_06_3",
+      "Localized": "Gray Round-Toe Boots"
+    },
+    "4": {
+      "GXT": "FEET_P1_06_4",
+      "Localized": "Slate Round-Toe Boots"
+    },
+    "5": {
+      "GXT": "FEET_P1_06_5",
+      "Localized": "Copper Round-Toe Boots"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "FEET_P1_08_0",
+      "Localized": "Gray Snake Shoes"
+    },
+    "1": {
+      "GXT": "FEET_P1_08_1",
+      "Localized": "Black Shoes"
+    },
+    "2": {
+      "GXT": "FEET_P1_08_2",
+      "Localized": "White Snake Shoes"
+    },
+    "3": {
+      "GXT": "FEET_P1_08_3",
+      "Localized": "Gray Crocodile Shoes"
+    },
+    "4": {
+      "GXT": "FEET_P1_08_4",
+      "Localized": "Alligator Shoes"
+    },
+    "5": {
+      "GXT": "FEET_P1_08_5",
+      "Localized": "Brown Crocodile Shoes"
+    },
+    "6": {
+      "GXT": "FEET_P1_08_6",
+      "Localized": "Rattlesnake Shoes"
+    },
+    "7": {
+      "GXT": "FEET_P1_08_7",
+      "Localized": "Gray Python Shoes"
+    },
+    "8": {
+      "GXT": "FEET_P1_08_8",
+      "Localized": "Two-Tone Crocodile Shoes"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "FEET_P1_10_0",
+      "Localized": "Black Brogues"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "FEET_P1_11_0",
+      "Localized": "Two-Tone Sneakers"
+    },
+    "1": {
+      "GXT": "FEET_P1_11_1",
+      "Localized": "Orange Sneakers"
+    },
+    "2": {
+      "GXT": "FEET_P1_11_2",
+      "Localized": "Black Sneakers"
+    },
+    "3": {
+      "GXT": "FEET_P1_11_3",
+      "Localized": "Desert Green Sneakers"
+    },
+    "4": {
+      "GXT": "FEET_P1_11_4",
+      "Localized": "Mint Sneakers"
+    },
+    "5": {
+      "GXT": "FEET_P1_11_5",
+      "Localized": "Freeway Sneakers"
+    },
+    "6": {
+      "GXT": "FEET_P1_11_6",
+      "Localized": "Animal Fashion Sneakers"
+    },
+    "7": {
+      "GXT": "FEET_P1_11_7",
+      "Localized": "Feud Classic Sneakers"
+    },
+    "8": {
+      "GXT": "FEET_P1_11_8",
+      "Localized": "Cacao Blend Sneakers"
+    },
+    "9": {
+      "GXT": "FEET_P1_11_9",
+      "Localized": "Magnetics Sneakers"
+    },
+    "10": {
+      "GXT": "FEET_P1_11_10",
+      "Localized": "Blue Sneakers"
+    },
+    "11": {
+      "GXT": "FEET_P1_11_11",
+      "Localized": "White Sneakers"
+    },
+    "12": {
+      "GXT": "FEET_P1_11_12",
+      "Localized": "Winter Camo Sneakers"
+    },
+    "13": {
+      "GXT": "FEET_P1_11_13",
+      "Localized": "Forest Camo Sneakers"
+    },
+    "14": {
+      "GXT": "FEET_P1_11_14",
+      "Localized": "Soft Seas Sneakers"
+    },
+    "15": {
+      "GXT": "FEET_P1_11_15",
+      "Localized": "Latte Sneakers"
+    }
+  },
+  "12": {
+    "0": {
+      "GXT": "FEET_P1_12_0",
+      "Localized": "White Skate Sneakers"
+    },
+    "1": {
+      "GXT": "FEET_P1_12_1",
+      "Localized": "Green Skate Sneakers"
+    },
+    "2": {
+      "GXT": "FEET_P1_12_2",
+      "Localized": "Two-Tone Skate Sneakers"
+    },
+    "3": {
+      "GXT": "FEET_P1_12_3",
+      "Localized": "Black Skate Sneakers"
+    },
+    "4": {
+      "GXT": "FEET_P1_12_4",
+      "Localized": "Blue Skate Sneakers"
+    },
+    "5": {
+      "GXT": "FEET_P1_12_5",
+      "Localized": "Orange Accent Skate Sneakers"
+    },
+    "6": {
+      "GXT": "FEET_P1_12_6",
+      "Localized": "Red Skate Sneakers"
+    },
+    "7": {
+      "GXT": "FEET_P1_12_7",
+      "Localized": "Orange Skate Sneakers"
+    },
+    "8": {
+      "GXT": "FEET_P1_12_8",
+      "Localized": "Mocha Skate Sneakers"
+    },
+    "9": {
+      "GXT": "FEET_P1_12_9",
+      "Localized": "Black Skate Sneakers"
+    },
+    "10": {
+      "GXT": "FEET_P1_12_10",
+      "Localized": "Fresh Skate Sneakers"
+    },
+    "11": {
+      "GXT": "FEET_P1_12_11",
+      "Localized": "Green Skate Sneakers"
+    }
+  },
+  "13": {
+    "0": {
+      "GXT": "FEET_P1_13_0",
+      "Localized": "Black Oxfords"
+    }
+  },
+  "14": {
+    "0": {
+      "GXT": "FEET_P1_14_0",
+      "Localized": "Gray Skate Shoes"
+    },
+    "1": {
+      "GXT": "FEET_P1_14_1",
+      "Localized": "White Skate Shoes"
+    },
+    "2": {
+      "GXT": "FEET_P1_14_2",
+      "Localized": "Chestnut Skate Shoes"
+    },
+    "3": {
+      "GXT": "FEET_P1_14_3",
+      "Localized": "Jade Accent Skate Shoes"
+    },
+    "4": {
+      "GXT": "FEET_P1_14_4",
+      "Localized": "Two-Tone Skate Shoes"
+    },
+    "5": {
+      "GXT": "FEET_P1_14_5",
+      "Localized": "Red Piped Skate Shoes"
+    },
+    "6": {
+      "GXT": "FEET_P1_14_6",
+      "Localized": "Red Skate Shoes"
+    },
+    "7": {
+      "GXT": "FEET_P1_14_7",
+      "Localized": "Beige Skate Shoes"
+    }
+  },
+  "15": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "16": {
+    "0": {
+      "GXT": "FEET_P1_16_0",
+      "Localized": "Black Leather Loafers"
+    },
+    "1": {
+      "GXT": "FEET_P1_16_1",
+      "Localized": "Gray Leather Loafers"
+    },
+    "2": {
+      "GXT": "FEET_P1_16_2",
+      "Localized": "Cream Leather Loafers"
+    },
+    "3": {
+      "GXT": "FEET_P1_16_3",
+      "Localized": "Brown Leather Loafers"
+    },
+    "4": {
+      "GXT": "FEET_P1_16_4",
+      "Localized": "White Leather Loafers"
+    },
+    "5": {
+      "GXT": "FEET_P1_16_5",
+      "Localized": "Russet Leather Loafers"
+    },
+    "6": {
+      "GXT": "FEET_P1_16_6",
+      "Localized": "White Snakeskin Loafers"
+    },
+    "7": {
+      "GXT": "FEET_P1_16_7",
+      "Localized": "Rattlesnake Loafers"
+    },
+    "8": {
+      "GXT": "FEET_P1_16_8",
+      "Localized": "Brown Snakeskin Loafers"
+    },
+    "9": {
+      "GXT": "FEET_P1_16_9",
+      "Localized": "Zebra Two-Tone Loafers"
+    },
+    "10": {
+      "GXT": "FEET_P1_16_10",
+      "Localized": "Pale Reptile Loafers"
+    },
+    "11": {
+      "GXT": "FEET_P1_16_11",
+      "Localized": "Tan Alligator Loafers"
+    }
+  },
+  "17": {
+    "0": {
+      "GXT": "FEET_P1_17_0",
+      "Localized": "All Black Oxfords"
+    },
+    "1": {
+      "GXT": "FEET_P1_17_1",
+      "Localized": "Chocolate Oxfords"
+    },
+    "2": {
+      "GXT": "FEET_P1_17_2",
+      "Localized": "Chestnut Oxfords"
+    },
+    "3": {
+      "GXT": "FEET_P1_17_3",
+      "Localized": "Tan Oxfords"
+    },
+    "4": {
+      "GXT": "FEET_P1_17_4",
+      "Localized": "White Oxfords"
+    },
+    "5": {
+      "GXT": "FEET_P1_17_5",
+      "Localized": "Ash Oxfords"
+    },
+    "6": {
+      "GXT": "FEET_P1_17_6",
+      "Localized": "Gray Two-Tone Oxfords"
+    },
+    "7": {
+      "GXT": "FEET_P1_17_7",
+      "Localized": "Beige Oxfords"
+    },
+    "8": {
+      "GXT": "FEET_P1_17_8",
+      "Localized": "Topaz Oxfords"
+    },
+    "9": {
+      "GXT": "FEET_P1_17_9",
+      "Localized": "Black Oxfords"
+    },
+    "10": {
+      "GXT": "FEET_P1_17_10",
+      "Localized": "Lime Oxfords"
+    },
+    "11": {
+      "GXT": "FEET_P1_17_11",
+      "Localized": "Hawthorn Oxfords"
+    },
+    "12": {
+      "GXT": "FEET_P1_17_12",
+      "Localized": "Coffee Oxfords"
+    },
+    "13": {
+      "GXT": "FEET_P1_17_13",
+      "Localized": "Gray Oxfords"
+    },
+    "14": {
+      "GXT": "FEET_P1_17_14",
+      "Localized": "Cream Oxfords"
+    },
+    "15": {
+      "GXT": "FEET_P1_17_15",
+      "Localized": "Navy Oxfords"
+    }
+  },
+  "18": {
+    "0": {
+      "GXT": "FEET_P1_18_0",
+      "Localized": "Black Slip-Ons"
+    },
+    "1": {
+      "GXT": "FEET_P1_18_1",
+      "Localized": "Red Slip-Ons"
+    },
+    "2": {
+      "GXT": "FEET_P1_18_2",
+      "Localized": "Brown Slip-Ons"
+    },
+    "3": {
+      "GXT": "FEET_P1_18_3",
+      "Localized": "Green Stripe Slip-Ons"
+    },
+    "4": {
+      "GXT": "FEET_P1_18_4",
+      "Localized": "Green Slip-Ons"
+    },
+    "5": {
+      "GXT": "FEET_P1_18_5",
+      "Localized": "Copper Slip-Ons"
+    },
+    "6": {
+      "GXT": "FEET_P1_18_6",
+      "Localized": "Copper Two-Tone Slip-Ons"
+    },
+    "7": {
+      "GXT": "FEET_P1_18_7",
+      "Localized": "Navy Slip-Ons"
+    },
+    "8": {
+      "GXT": "FEET_P1_18_8",
+      "Localized": "Blue Slip-Ons"
+    },
+    "9": {
+      "GXT": "FEET_P1_18_9",
+      "Localized": "Beige Slip-Ons"
+    },
+    "10": {
+      "GXT": "FEET_P1_18_10",
+      "Localized": "White Slip-Ons"
+    },
+    "11": {
+      "GXT": "FEET_P1_18_11",
+      "Localized": "Tan Slip-Ons"
+    },
+    "12": {
+      "GXT": "FEET_P1_18_12",
+      "Localized": "Black Snakeskin Slip-Ons"
+    },
+    "13": {
+      "GXT": "FEET_P1_18_13",
+      "Localized": "Two-Tone Slip-Ons"
+    },
+    "14": {
+      "GXT": "FEET_P1_18_14",
+      "Localized": "Brown Snakeskin Slip-Ons"
+    },
+    "15": {
+      "GXT": "FEET_P1_18_15",
+      "Localized": "Gray Slip-Ons"
+    }
+  },
+  "19": {
+    "0": {
+      "GXT": "FEET_P1_19_0",
+      "Localized": "Brown Wingtips"
+    },
+    "1": {
+      "GXT": "FEET_P1_19_1",
+      "Localized": "Navy Wingtips"
+    },
+    "2": {
+      "GXT": "FEET_P1_19_2",
+      "Localized": "Coffee Wingtips"
+    },
+    "3": {
+      "GXT": "FEET_P1_19_3",
+      "Localized": "Burgundy Wingtips"
+    },
+    "4": {
+      "GXT": "FEET_P1_19_4",
+      "Localized": "Blue Wingtips"
+    },
+    "5": {
+      "GXT": "FEET_P1_19_5",
+      "Localized": "Woodland Camo Wingtips"
+    },
+    "6": {
+      "GXT": "FEET_P1_19_6",
+      "Localized": "Black Wingtips"
+    },
+    "7": {
+      "GXT": "FEET_P1_19_7",
+      "Localized": "Tan Wingtips"
+    },
+    "8": {
+      "GXT": "FEET_P1_19_8",
+      "Localized": "Purple Wingtips"
+    },
+    "9": {
+      "GXT": "FEET_P1_19_9",
+      "Localized": "Brown Wingtips"
+    },
+    "10": {
+      "GXT": "FEET_P1_19_10",
+      "Localized": "Chocolate Wingtips"
+    },
+    "11": {
+      "GXT": "FEET_P1_19_11",
+      "Localized": "Green Wingtips"
+    },
+    "12": {
+      "GXT": "FEET_P1_19_12",
+      "Localized": "Ash Wingtips"
+    },
+    "13": {
+      "GXT": "FEET_P1_19_13",
+      "Localized": "Olive Wingtips"
+    },
+    "14": {
+      "GXT": "FEET_P1_19_14",
+      "Localized": "Two-Tone Wingtips"
+    },
+    "15": {
+      "GXT": "FEET_P1_19_15",
+      "Localized": "Yellow Wingtips"
+    }
+  }
+}

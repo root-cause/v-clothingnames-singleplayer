@@ -1,0 +1,32 @@
+{
+  "0": {
+    "0": {
+      "GXT": "BERD_P0_0_0",
+      "Localized": "Clean Shave"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "BERD_P0_1_0",
+      "Localized": "Stubbled"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "BERD_P0_2_0",
+      "Localized": "Long Stubbled"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "BERD_P0_3_0",
+      "Localized": "Full Goatee"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "BERD_P0_4_0",
+      "Localized": "Full Beard"
+    }
+  }
+}

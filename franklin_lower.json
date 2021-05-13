@@ -1,0 +1,518 @@
+{
+  "0": {
+    "0": {
+      "GXT": "LEGS_P1_0_0",
+      "Localized": "Cream Cargo Shorts"
+    },
+    "1": {
+      "GXT": "LEGS_P1_0_1",
+      "Localized": "Sand Cargo Shorts"
+    },
+    "2": {
+      "GXT": "LEGS_P1_0_2",
+      "Localized": "Navy Cargo Shorts"
+    },
+    "3": {
+      "GXT": "LEGS_P1_0_3",
+      "Localized": "Olive Cargo Shorts"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "4": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "5": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "LEGS_P1_2_0",
+      "Localized": "Black Tuxedo Pants"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "LEGS_P1_6_0",
+      "Localized": "Gray Golf Pants"
+    },
+    "1": {
+      "GXT": "LEGS_P1_6_1",
+      "Localized": "Cream Golf Pants"
+    },
+    "2": {
+      "GXT": "LEGS_P1_6_2",
+      "Localized": "Tan Plaid Golf Pants"
+    },
+    "3": {
+      "GXT": "LEGS_P1_6_3",
+      "Localized": "Tartan Golf Pants"
+    },
+    "4": {
+      "GXT": "LEGS_P1_6_4",
+      "Localized": "Charcoal Plaid Golf Pants"
+    },
+    "5": {
+      "GXT": "LEGS_P1_6_5",
+      "Localized": "Dark Plaid Golf Pants"
+    },
+    "6": {
+      "GXT": "LEGS_P1_6_6",
+      "Localized": "Brown Plaid Golf Pants"
+    },
+    "7": {
+      "GXT": "LEGS_P1_6_7",
+      "Localized": "Slate Golf Pants"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "LEGS_P1_8_0",
+      "Localized": "Slate Baggy Jeans"
+    },
+    "1": {
+      "GXT": "LEGS_P1_8_1",
+      "Localized": "Blue Baggy Jeans"
+    },
+    "2": {
+      "GXT": "LEGS_P1_8_2",
+      "Localized": "Gray Baggy Jeans"
+    },
+    "3": {
+      "GXT": "LEGS_P1_8_3",
+      "Localized": "Pale Blue Baggy Jeans"
+    },
+    "4": {
+      "GXT": "LEGS_P1_8_4",
+      "Localized": "Black Baggy Jeans"
+    },
+    "5": {
+      "GXT": "LEGS_P1_8_5",
+      "Localized": "Blue-Green Baggy Jeans"
+    },
+    "6": {
+      "GXT": "LEGS_P1_8_6",
+      "Localized": "Faded Baggy Jeans"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "LEGS_P1_11_0",
+      "Localized": "Beige Chinos"
+    },
+    "1": {
+      "GXT": "LEGS_P1_11_1",
+      "Localized": "Olive Chinos"
+    },
+    "2": {
+      "GXT": "LEGS_P1_11_2",
+      "Localized": "Black Chinos"
+    },
+    "3": {
+      "GXT": "LEGS_P1_11_3",
+      "Localized": "Off-White Chinos"
+    },
+    "4": {
+      "GXT": "LEGS_P1_11_4",
+      "Localized": "Gray Chinos"
+    },
+    "5": {
+      "GXT": "LEGS_P1_11_5",
+      "Localized": "Navy Chinos"
+    }
+  },
+  "12": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "13": {
+    "0": {
+      "GXT": "LEGS_P1_13_0",
+      "Localized": "Silver Sweatpants"
+    },
+    "1": {
+      "GXT": "LEGS_P1_13_1",
+      "Localized": "Gray Sweatpants"
+    },
+    "2": {
+      "GXT": "LEGS_P1_13_2",
+      "Localized": "Topaz Sweatpants"
+    },
+    "3": {
+      "GXT": "LEGS_P1_13_3",
+      "Localized": "Ash Sweatpants"
+    },
+    "4": {
+      "GXT": "LEGS_P1_13_4",
+      "Localized": "Slate Sweatpants"
+    },
+    "5": {
+      "GXT": "LEGS_P1_13_5",
+      "Localized": "Olive Sweatpants"
+    },
+    "6": {
+      "GXT": "LEGS_P1_13_6",
+      "Localized": "Jade Sweatpants"
+    },
+    "7": {
+      "GXT": "LEGS_P1_13_7",
+      "Localized": "Dark Green Sweatpants"
+    },
+    "8": {
+      "GXT": "LEGS_P1_13_8",
+      "Localized": "Teal Sweatpants"
+    },
+    "9": {
+      "GXT": "LEGS_P1_13_9",
+      "Localized": "Brown Sweatpants"
+    },
+    "10": {
+      "GXT": "LEGS_P1_13_10",
+      "Localized": "Kingz Green Sweatpants"
+    },
+    "11": {
+      "GXT": "LEGS_P1_13_11",
+      "Localized": "Gray Stripe Sweatpants"
+    }
+  },
+  "14": {
+    "0": {
+      "GXT": "LEGS_P1_14_0",
+      "Localized": "White Shorts"
+    }
+  },
+  "15": {
+    "0": {
+      "GXT": "LEGS_P1_15_0",
+      "Localized": "Gray Plaid Pants"
+    },
+    "1": {
+      "GXT": "LEGS_P1_15_1",
+      "Localized": "Silver Plaid Pants"
+    },
+    "2": {
+      "GXT": "LEGS_P1_15_2",
+      "Localized": "Charcoal Plaid Pants"
+    },
+    "3": {
+      "GXT": "LEGS_P1_15_3",
+      "Localized": "Tan Plaid Pants"
+    },
+    "4": {
+      "GXT": "LEGS_P1_15_4",
+      "Localized": "Charcoal Pants"
+    },
+    "5": {
+      "GXT": "LEGS_P1_15_5",
+      "Localized": "Ash Pants"
+    },
+    "6": {
+      "GXT": "LEGS_P1_15_6",
+      "Localized": "Beige Pants"
+    },
+    "7": {
+      "GXT": "LEGS_P1_15_7",
+      "Localized": "Cream Pants"
+    },
+    "8": {
+      "GXT": "LEGS_P1_15_8",
+      "Localized": "Navy Plaid Pants"
+    },
+    "9": {
+      "GXT": "LEGS_P1_15_9",
+      "Localized": "Off-White Pants"
+    },
+    "10": {
+      "GXT": "LEGS_P1_15_10",
+      "Localized": "White Pants"
+    },
+    "11": {
+      "GXT": "LEGS_P1_15_11",
+      "Localized": "Subtle Blue Pants"
+    },
+    "12": {
+      "GXT": "LEGS_P1_15_12",
+      "Localized": "Navy Pants"
+    },
+    "13": {
+      "GXT": "LEGS_P1_15_13",
+      "Localized": "Rust Pants"
+    },
+    "14": {
+      "GXT": "LEGS_P1_15_14",
+      "Localized": "Green Pants"
+    },
+    "15": {
+      "GXT": "LEGS_P1_15_15",
+      "Localized": "Tan Pants"
+    }
+  },
+  "16": {
+    "0": {
+      "GXT": "LEGS_P1_16_0",
+      "Localized": "Combat Pants"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "17": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "18": {
+    "0": {
+      "GXT": "LEGS_P1_18_0",
+      "Localized": "White Boxers"
+    },
+    "1": {
+      "GXT": "LEGS_P1_18_1",
+      "Localized": "Gray Boxers"
+    },
+    "2": {
+      "GXT": "LEGS_P1_18_2",
+      "Localized": "Black Boxers"
+    },
+    "3": {
+      "GXT": "LEGS_P1_18_3",
+      "Localized": "Kings Ash Boxers"
+    },
+    "4": {
+      "GXT": "LEGS_P1_18_4",
+      "Localized": "Feud Green Boxers"
+    },
+    "5": {
+      "GXT": "LEGS_P1_18_5",
+      "Localized": "Feud White Boxers"
+    }
+  },
+  "19": {
+    "0": {
+      "GXT": "LEGS_P1_19_0",
+      "Localized": "Black Tuxedo Pants"
+    }
+  },
+  "20": {
+    "0": {
+      "GXT": "LEGS_P1_20_0",
+      "Localized": "Indigo Jeans"
+    },
+    "1": {
+      "GXT": "LEGS_P1_20_1",
+      "Localized": "Black Jeans"
+    },
+    "2": {
+      "GXT": "LEGS_P1_20_2",
+      "Localized": "Gray Faded Jeans"
+    },
+    "3": {
+      "GXT": "LEGS_P1_20_3",
+      "Localized": "Navy Jeans"
+    },
+    "4": {
+      "GXT": "LEGS_P1_20_4",
+      "Localized": "Brown Jeans"
+    },
+    "5": {
+      "GXT": "LEGS_P1_20_5",
+      "Localized": "Blue Jeans"
+    },
+    "6": {
+      "GXT": "LEGS_P1_20_6",
+      "Localized": "Olive Jeans"
+    },
+    "7": {
+      "GXT": "LEGS_P1_20_7",
+      "Localized": "Black Faded Jeans"
+    },
+    "8": {
+      "GXT": "LEGS_P1_20_8",
+      "Localized": "Coffee Jeans"
+    }
+  },
+  "21": {
+    "0": {
+      "GXT": "LEGS_P1_21_0",
+      "Localized": "Indigo Skinny Jeans"
+    },
+    "1": {
+      "GXT": "LEGS_P1_21_1",
+      "Localized": "Black Skinny Jeans"
+    },
+    "2": {
+      "GXT": "LEGS_P1_21_2",
+      "Localized": "Aqua Skinny Jeans"
+    },
+    "3": {
+      "GXT": "LEGS_P1_21_3",
+      "Localized": "Brown Skinny Jeans"
+    },
+    "4": {
+      "GXT": "LEGS_P1_21_4",
+      "Localized": "Blue Skinny Jeans"
+    },
+    "5": {
+      "GXT": "LEGS_P1_21_5",
+      "Localized": "Red Skinny Jeans"
+    },
+    "6": {
+      "GXT": "LEGS_P1_21_6",
+      "Localized": "Gray Skinny Jeans"
+    },
+    "7": {
+      "GXT": "LEGS_P1_21_7",
+      "Localized": "Green Skinny Jeans"
+    },
+    "8": {
+      "GXT": "LEGS_P1_21_8",
+      "Localized": "Coffee Skinny Jeans"
+    }
+  },
+  "22": {
+    "0": {
+      "GXT": "LEGS_P1_22_0",
+      "Localized": "LS Panic Charcoal Shorts"
+    },
+    "1": {
+      "GXT": "LEGS_P1_22_1",
+      "Localized": "LS Panic Yellow Shorts"
+    },
+    "2": {
+      "GXT": "LEGS_P1_22_2",
+      "Localized": "Prolaps White Shorts"
+    },
+    "3": {
+      "GXT": "LEGS_P1_22_3",
+      "Localized": "Prolaps Blue Shorts"
+    },
+    "4": {
+      "GXT": "LEGS_P1_22_4",
+      "Localized": "LC Salamanders Red Shorts"
+    },
+    "5": {
+      "GXT": "LEGS_P1_22_5",
+      "Localized": "LC Salamanders Green Shorts"
+    },
+    "6": {
+      "GXT": "LEGS_P1_22_6",
+      "Localized": "LS Shrimps Gray Shorts"
+    },
+    "7": {
+      "GXT": "LEGS_P1_22_7",
+      "Localized": "LS Shrimps White Shorts"
+    },
+    "8": {
+      "GXT": "LEGS_P1_22_8",
+      "Localized": "LOB Gray Shorts"
+    },
+    "9": {
+      "GXT": "LEGS_P1_22_9",
+      "Localized": "LOB Blue Shorts"
+    },
+    "10": {
+      "GXT": "LEGS_P1_22_10",
+      "Localized": "LOB Green Shorts"
+    },
+    "11": {
+      "GXT": "LEGS_P1_22_11",
+      "Localized": "LOB Tan Shorts"
+    },
+    "12": {
+      "GXT": "LEGS_P1_22_12",
+      "Localized": "LOB Orange Shorts"
+    },
+    "13": {
+      "GXT": "LEGS_P1_22_13",
+      "Localized": "LOB Pale Blue Shorts"
+    }
+  },
+  "23": {
+    "0": {
+      "GXT": "LEGS_P1_23_0",
+      "Localized": "Broker White Shorts"
+    },
+    "1": {
+      "GXT": "LEGS_P1_23_1",
+      "Localized": "Broker Black Shorts"
+    },
+    "2": {
+      "GXT": "LEGS_P1_23_2",
+      "Localized": "Broker Gray Shorts"
+    },
+    "3": {
+      "GXT": "LEGS_P1_23_3",
+      "Localized": "Broker Navy Shorts"
+    },
+    "4": {
+      "GXT": "LEGS_P1_23_4",
+      "Localized": "Broker Green Shorts"
+    },
+    "5": {
+      "GXT": "LEGS_P1_23_5",
+      "Localized": "Broker Brown Shorts"
+    }
+  }
+}

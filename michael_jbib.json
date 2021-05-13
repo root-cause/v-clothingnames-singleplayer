@@ -1,0 +1,196 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "JBIB_P0_02_0",
+      "Localized": "Ash T-Shirt"
+    },
+    "1": {
+      "GXT": "JBIB_P0_02_1",
+      "Localized": "White T-Shirt"
+    },
+    "2": {
+      "GXT": "JBIB_P0_02_2",
+      "Localized": "Gray T-Shirt"
+    },
+    "3": {
+      "GXT": "JBIB_P0_02_3",
+      "Localized": "Charcoal T-Shirt"
+    },
+    "4": {
+      "GXT": "JBIB_P0_02_4",
+      "Localized": "Green T-Shirt"
+    },
+    "5": {
+      "GXT": "JBIB_P0_02_5",
+      "Localized": "Blue T-Shirt"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "JBIB_P0_03_0",
+      "Localized": "Charcoal Henley"
+    },
+    "1": {
+      "GXT": "JBIB_P0_03_1",
+      "Localized": "Gray Henley"
+    },
+    "2": {
+      "GXT": "JBIB_P0_03_2",
+      "Localized": "Black Henley"
+    },
+    "3": {
+      "GXT": "JBIB_P0_03_3",
+      "Localized": "Beige Henley"
+    },
+    "4": {
+      "GXT": "JBIB_P0_03_4",
+      "Localized": "Brown Henley"
+    },
+    "5": {
+      "GXT": "JBIB_P0_03_5",
+      "Localized": "Navy Henley"
+    },
+    "6": {
+      "GXT": "JBIB_P0_03_6",
+      "Localized": "Navy Striped Henley"
+    },
+    "7": {
+      "GXT": "JBIB_P0_03_7",
+      "Localized": "Gray Striped Henley"
+    },
+    "8": {
+      "GXT": "JBIB_P0_03_8",
+      "Localized": "Gray Wool Henley"
+    },
+    "9": {
+      "GXT": "JBIB_P0_03_9",
+      "Localized": "Charcoal Striped Henley"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "JBIB_P0_04_0",
+      "Localized": "Charcoal V Neck"
+    },
+    "1": {
+      "GXT": "JBIB_P0_04_1",
+      "Localized": "Beige V Neck"
+    },
+    "2": {
+      "GXT": "JBIB_P0_04_2",
+      "Localized": "Black V Neck"
+    },
+    "3": {
+      "GXT": "JBIB_P0_04_3",
+      "Localized": "Olive V Neck"
+    },
+    "4": {
+      "GXT": "JBIB_P0_04_4",
+      "Localized": "Gray V Neck"
+    },
+    "5": {
+      "GXT": "JBIB_P0_04_5",
+      "Localized": "Brown V Neck"
+    },
+    "6": {
+      "GXT": "JBIB_P0_04_6",
+      "Localized": "Black Striped V Neck"
+    },
+    "7": {
+      "GXT": "JBIB_P0_04_7",
+      "Localized": "Gray Diamond V Neck"
+    },
+    "8": {
+      "GXT": "JBIB_P0_04_8",
+      "Localized": "Brown Striped V Neck"
+    },
+    "9": {
+      "GXT": "JBIB_P0_04_9",
+      "Localized": "Silver Diamond V Neck"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "JBIB_P0_05_0",
+      "Localized": "Black Vest, White Shirt"
+    },
+    "1": {
+      "GXT": "JBIB_P0_05_1",
+      "Localized": "Black Vest, Black Shirt"
+    },
+    "2": {
+      "GXT": "JBIB_P0_05_2",
+      "Localized": "Black Vest, Gray Shirt"
+    },
+    "3": {
+      "GXT": "JBIB_P0_05_3",
+      "Localized": "Black Vest, Blue Shirt"
+    },
+    "4": {
+      "GXT": "JBIB_P0_05_4",
+      "Localized": "Black Vest, Pink Shirt"
+    },
+    "5": {
+      "GXT": "JBIB_P0_05_5",
+      "Localized": "Ash Vest, White Shirt"
+    },
+    "6": {
+      "GXT": "JBIB_P0_05_6",
+      "Localized": "Ash Vest, Black Shirt"
+    },
+    "7": {
+      "GXT": "JBIB_P0_05_7",
+      "Localized": "Ash Vest, Gray Shirt"
+    },
+    "8": {
+      "GXT": "JBIB_P0_05_8",
+      "Localized": "Ash Vest, Blue Shirt"
+    },
+    "9": {
+      "GXT": "JBIB_P0_05_9",
+      "Localized": "Ash Vest, Pink Shirt"
+    },
+    "10": {
+      "GXT": "JBIB_P0_05_10",
+      "Localized": "Blue Vest, White Shirt"
+    },
+    "11": {
+      "GXT": "JBIB_P0_05_11",
+      "Localized": "Blue Vest, Black Shirt"
+    },
+    "12": {
+      "GXT": "JBIB_P0_05_12",
+      "Localized": "Blue Vest, Gray Shirt"
+    },
+    "13": {
+      "GXT": "JBIB_P0_05_13",
+      "Localized": "Blue Vest, Blue Shirt"
+    },
+    "14": {
+      "GXT": "JBIB_P0_05_14",
+      "Localized": "Blue Vest, Pink Shirt"
+    },
+    "15": {
+      "GXT": "JBIB_P0_05_15",
+      "Localized": "Stone Vest, White Shirt"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "JBIB_P0_06_0",
+      "Localized": "Bare Chest"
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "PROPS_P2_E1",
+      "Localized": "Specs Pest Shades"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "PROPS_P2_E2",
+      "Localized": "Dix Charcoal Glasses"
+    },
+    "1": {
+      "GXT": "PROPS_P2_E2_1",
+      "Localized": "Dix Brown Glasses"
+    },
+    "2": {
+      "GXT": "PROPS_P2_E2_2",
+      "Localized": "Dix Black Glasses"
+    },
+    "3": {
+      "GXT": "PROPS_P2_E2_3",
+      "Localized": "Dix Checked Glasses"
+    },
+    "4": {
+      "GXT": "PROPS_P2_E2_4",
+      "Localized": "Dix White Glasses"
+    },
+    "5": {
+      "GXT": "PROPS_P2_E2_5",
+      "Localized": "Dix Red Glasses"
+    },
+    "6": {
+      "GXT": "PROPS_P2_E2_6",
+      "Localized": "Dix Maroon Glasses"
+    },
+    "7": {
+      "GXT": "PROPS_P2_E2_7",
+      "Localized": "Dix Yellow Glasses"
+    },
+    "8": {
+      "GXT": "PROPS_P2_E2_8",
+      "Localized": "Dix Spring Glasses"
+    },
+    "9": {
+      "GXT": "PROPS_P2_E2_9",
+      "Localized": "Dix Fall Glasses"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "PROPS_P2_E3",
+      "Localized": "Tung Charcoal Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P2_E3_1",
+      "Localized": "Tung White Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P2_E3_2",
+      "Localized": "Tung Ash Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P2_E3_3",
+      "Localized": "Tung Red Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P2_E3_4",
+      "Localized": "Tung Blue Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P2_E3_5",
+      "Localized": "Tung Black Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P2_E3_6",
+      "Localized": "Tung Orange Tint Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P2_E3_7",
+      "Localized": "Tung Purple Tint Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P2_E3_8",
+      "Localized": "Tung Hornet Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P2_E3_9",
+      "Localized": "Tung Two-Tone Shades"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "PROPS_P2_E7_0",
+      "Localized": "OG Black Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P2_E7_1",
+      "Localized": "OG Ash Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P2_E7_2",
+      "Localized": "OG Red Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P2_E7_3",
+      "Localized": "OG Yellow Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P2_E7_4",
+      "Localized": "OG Brown Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P2_E7_5",
+      "Localized": "OG Gray Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P2_E7_6",
+      "Localized": "OG Blue Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P2_E7_7",
+      "Localized": "OG Smoke Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P2_E7_8",
+      "Localized": "OG Orange Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P2_E7_9",
+      "Localized": "OG Slate Shades"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "PROPS_P2_E8_0",
+      "Localized": "Steel Aviators"
+    },
+    "1": {
+      "GXT": "PROPS_P2_E8_1",
+      "Localized": "Slate Aviators"
+    },
+    "2": {
+      "GXT": "PROPS_P2_E8_2",
+      "Localized": "Gold Aviators"
+    },
+    "3": {
+      "GXT": "PROPS_P2_E8_3",
+      "Localized": "Silver Two-Tone Aviators"
+    },
+    "4": {
+      "GXT": "PROPS_P2_E8_4",
+      "Localized": "Aluminum Aviators"
+    },
+    "5": {
+      "GXT": "PROPS_P2_E8_5",
+      "Localized": "Bronze Two-Tone Aviators"
+    },
+    "6": {
+      "GXT": "PROPS_P2_E8_6",
+      "Localized": "Brown Two-Tone Aviators"
+    },
+    "7": {
+      "GXT": "PROPS_P2_E8_7",
+      "Localized": "Black Aviators"
+    },
+    "8": {
+      "GXT": "PROPS_P2_E8_8",
+      "Localized": "Silver Aviators"
+    },
+    "9": {
+      "GXT": "PROPS_P2_E8_9",
+      "Localized": "Smoke Aviators"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "PROPS_P2_E9_0",
+      "Localized": "Krepp Gold Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P2_E9_1",
+      "Localized": "Krepp Gray Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P2_E9_2",
+      "Localized": "Krepp Slate Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P2_E9_3",
+      "Localized": "Krepp Black Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P2_E9_4",
+      "Localized": "Krepp White Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P2_E9_5",
+      "Localized": "Krepp Silver Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P2_E9_6",
+      "Localized": "Krepp Ash Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P2_E9_7",
+      "Localized": "Krepp Brown Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P2_E9_8",
+      "Localized": "Krepp Beige Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P2_E9_9",
+      "Localized": "Krepp Coffee Shades"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "PROPS_P2_E10_0",
+      "Localized": "Broker Black Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P2_E10_1",
+      "Localized": "Broker Purple Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P2_E10_2",
+      "Localized": "Broker Brown Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P2_E10_3",
+      "Localized": "Broker Orange Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P2_E10_4",
+      "Localized": "Broker Gray Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P2_E10_5",
+      "Localized": "Broker Striped Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P2_E10_6",
+      "Localized": "Broker Beige Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P2_E10_7",
+      "Localized": "Broker Ash Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P2_E10_8",
+      "Localized": "Broker Charcoal Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P2_E10_9",
+      "Localized": "Broker Gradient Shades"
+    }
+  },
+  "11": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

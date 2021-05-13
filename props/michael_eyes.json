@@ -1,0 +1,240 @@
+{
+  "0": {
+    "0": {
+      "GXT": "PROPS_P0_E0",
+      "Localized": "Black-Rimmed Glasses"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "PROPS_P0_E3",
+      "Localized": "Copper Sports Shades"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "PROPS_P0_E4",
+      "Localized": "Enema Brown Glasses"
+    },
+    "1": {
+      "GXT": "PROPS_P0_E4_1",
+      "Localized": "Enema Gray Glasses"
+    },
+    "2": {
+      "GXT": "PROPS_P0_E4_2",
+      "Localized": "Enema Black Glasses"
+    },
+    "3": {
+      "GXT": "PROPS_P0_E4_3",
+      "Localized": "Enema Tortoiseshell Glasses"
+    },
+    "4": {
+      "GXT": "PROPS_P0_E4_4",
+      "Localized": "Enema Coffee Glasses"
+    },
+    "5": {
+      "GXT": "PROPS_P0_E4_5",
+      "Localized": "Enema Walnut Glasses"
+    },
+    "6": {
+      "GXT": "PROPS_P0_E4_6",
+      "Localized": "Enema Silver Accent Glasses"
+    },
+    "7": {
+      "GXT": "PROPS_P0_E4_7",
+      "Localized": "Enema Smoke Glasses"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "PROPS_P0_E5",
+      "Localized": "Farshtunken Gold Aviators"
+    },
+    "1": {
+      "GXT": "PROPS_P0_E5_1",
+      "Localized": "Farshtunken Purple Aviators"
+    },
+    "2": {
+      "GXT": "PROPS_P0_E5_2",
+      "Localized": "Farshtunken Silver Aviators"
+    },
+    "3": {
+      "GXT": "PROPS_P0_E5_3",
+      "Localized": "Farshtunken Gray Aviators"
+    },
+    "4": {
+      "GXT": "PROPS_P0_E5_4",
+      "Localized": "Farshtunken Blue Aviators"
+    },
+    "5": {
+      "GXT": "PROPS_P0_E5_5",
+      "Localized": "Farshtunken Tinted Aviators"
+    },
+    "6": {
+      "GXT": "PROPS_P0_E5_6",
+      "Localized": "Farshtunken Steel Aviators"
+    },
+    "7": {
+      "GXT": "PROPS_P0_E5_7",
+      "Localized": "Farshtunken Sepia Aviators"
+    },
+    "8": {
+      "GXT": "PROPS_P0_E5_8",
+      "Localized": "Farshtunken Black Aviators"
+    },
+    "9": {
+      "GXT": "PROPS_P0_E5_9",
+      "Localized": "Farshtunken Smoke Aviators"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "PROPS_P0_E6",
+      "Localized": "Tung Charcoal Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P0_E6_1",
+      "Localized": "Tung Ash Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P0_E6_2",
+      "Localized": "Tung Gray Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P0_E6_3",
+      "Localized": "Tung Red Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P0_E6_4",
+      "Localized": "Tung Blue Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P0_E6_5",
+      "Localized": "Tung Yellow Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P0_E6_6",
+      "Localized": "Tung Black Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P0_E6_7",
+      "Localized": "Tung Rosy Shades"
+    },
+    "8": {
+      "GXT": "PROPS_P0_E6_8",
+      "Localized": "Tung Hornet Shades"
+    },
+    "9": {
+      "GXT": "PROPS_P0_E6_9",
+      "Localized": "Tung Two-Tone Shades"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "PROPS_P0_E7",
+      "Localized": "Swimming Goggles"
+    }
+  },
+  "8": {
+    "0": {
+      "GXT": "PROPS_P0_E8",
+      "Localized": "Rimmers Azure Aviators"
+    },
+    "1": {
+      "GXT": "PROPS_P0_E8_1",
+      "Localized": "Rimmers Smoke Aviators"
+    },
+    "2": {
+      "GXT": "PROPS_P0_E8_2",
+      "Localized": "Rimmers Yellow Aviators"
+    },
+    "3": {
+      "GXT": "PROPS_P0_E8_3",
+      "Localized": "Rimmers Topaz Aviators"
+    },
+    "4": {
+      "GXT": "PROPS_P0_E8_4",
+      "Localized": "Rimmers Tinted Aviators"
+    },
+    "5": {
+      "GXT": "PROPS_P0_E8_5",
+      "Localized": "Rimmers Steel Aviators"
+    },
+    "6": {
+      "GXT": "PROPS_P0_E8_6",
+      "Localized": "Rimmers Indigo Aviators"
+    },
+    "7": {
+      "GXT": "PROPS_P0_E8_7",
+      "Localized": "Rimmers Chocolate Aviators"
+    },
+    "8": {
+      "GXT": "PROPS_P0_E8_8",
+      "Localized": "Rimmers Sepia Aviators"
+    },
+    "9": {
+      "GXT": "PROPS_P0_E8_9",
+      "Localized": "Rimmers Slate Aviators"
+    },
+    "10": {
+      "GXT": "PROPS_P0_E8_10",
+      "Localized": "Rimmers Gold Aviators"
+    },
+    "11": {
+      "GXT": "PROPS_P0_E8_11",
+      "Localized": "Rimmers Blue Aviators"
+    }
+  },
+  "9": {
+    "0": {
+      "GXT": "PROPS_P0_E9",
+      "Localized": "Hawaiian Snow Black Shades"
+    },
+    "1": {
+      "GXT": "PROPS_P0_E9_1",
+      "Localized": "Hawaiian Snow Charcoal Shades"
+    },
+    "2": {
+      "GXT": "PROPS_P0_E9_2",
+      "Localized": "Hawaiian Snow Ash Shades"
+    },
+    "3": {
+      "GXT": "PROPS_P0_E9_3",
+      "Localized": "Hawaiian Snow Gray Shades"
+    },
+    "4": {
+      "GXT": "PROPS_P0_E9_4",
+      "Localized": "Hawaiian Snow Tan Shades"
+    },
+    "5": {
+      "GXT": "PROPS_P0_E9_5",
+      "Localized": "Hawaiian Snow Tortoiseshell Shades"
+    },
+    "6": {
+      "GXT": "PROPS_P0_E9_6",
+      "Localized": "Hawaiian Snow Walnut Shades"
+    },
+    "7": {
+      "GXT": "PROPS_P0_E9_7",
+      "Localized": "Hawaiian Snow Marbled Shades"
+    }
+  },
+  "10": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  }
+}

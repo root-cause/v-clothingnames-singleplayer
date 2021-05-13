@@ -1,0 +1,38 @@
+{
+  "0": {
+    "0": {
+      "GXT": "BERD_P2_0_0",
+      "Localized": "Clean Shave"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "BERD_P2_1_0",
+      "Localized": "Beard 1"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "BERD_P2_2_0",
+      "Localized": "Stubble"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "BERD_P2_3_0",
+      "Localized": "Big Mustache"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "BERD_P2_4_0",
+      "Localized": "Handlebar"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "BERD_P2_5_0",
+      "Localized": "The Gerry"
+    }
+  }
+}

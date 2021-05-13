@@ -1,0 +1,86 @@
+{
+  "0": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "1": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "1": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "2": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    },
+    "3": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "2": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "3": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "4": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "5": {
+    "0": {
+      "GXT": "NO_LABEL",
+      "Localized": "NULL"
+    }
+  },
+  "6": {
+    "0": {
+      "GXT": "SPEC2_P0_08_0",
+      "Localized": "Red Wrestler Mask"
+    },
+    "1": {
+      "GXT": "SPEC2_P0_08_1",
+      "Localized": "Green Wrestler Mask"
+    },
+    "2": {
+      "GXT": "SPEC2_P0_08_2",
+      "Localized": "Patriot Wrestler Mask"
+    },
+    "3": {
+      "GXT": "SPEC2_P0_08_3",
+      "Localized": "Domino Wrestler Mask"
+    },
+    "4": {
+      "GXT": "SPEC2_P0_08_4",
+      "Localized": "Gray Wrestler Mask"
+    },
+    "5": {
+      "GXT": "SPEC2_P0_08_5",
+      "Localized": "Phoenix Wrestler Mask"
+    }
+  },
+  "7": {
+    "0": {
+      "GXT": "PROPS_P1_H8_0",
+      "Localized": "Green Monster Mask"
+    },
+    "1": {
+      "GXT": "PROPS_P1_H8_1",
+      "Localized": "Red Monster Mask"
+    }
+  }
+}
